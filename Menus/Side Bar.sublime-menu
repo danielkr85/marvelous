@@ -1,0 +1,23 @@
+[
+{ "command": "copyfileto","args": {"paths": []},"caption":"Copy File To..." },
+{ "command": "copypath","args": {"paths": []},"caption":"Copy path" },
+{ 
+		"caption": "Open With",
+		"children":
+[{"command":"openinexplorer","args": {"paths": []},"caption":"Explorer"},
+	{"command":"openinexcel","args": {"paths": []},"caption":"Excel"},
+{"command":"openincmder","args": {"paths": []},"caption":"Cmder"}]
+},
+{
+
+	"caption":"Custom Plugins",
+	"children":
+	[		{ "command": "renamefiles","args": {"paths": []},"caption":"Rename Files" },
+			{ "command": "importpackages","args": {"paths": []},"caption":"Import MSI Packages" },
+			{ "command": "createpackages","args": {"paths": []},"caption":"Create MSI Packages" },
+			{ "command": "createundopackages","args": {"paths": []},"caption":"Create Undo MSI Packages" }]
+
+}
+
+
+]

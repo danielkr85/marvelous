@@ -1,0 +1,10 @@
+{
+	"shell_cmd": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\vbc.exe \"$file\"",
+	"variants":
+	[
+		{
+			"name": "Run program",
+			"shell_cmd": "$file",
+		}
+	]
+}

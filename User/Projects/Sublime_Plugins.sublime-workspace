@@ -1,0 +1,769 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"app",
+				"app_CALCULATE_EPRODUCT"
+			],
+			[
+				"pac",
+				"packagetype"
+			],
+			[
+				"Objec",
+				"Object_Ds"
+			],
+			[
+				"done",
+				"done"
+			],
+			[
+				"WK_",
+				"WK_CurrentPolicyTerm"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Default/Syntax Tests.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				"All Syntaxes"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 200.0,
+		"history":
+		[
+			"sublime.View.window",
+			"sublime.View",
+			"sublime.view",
+			"datetime.time()",
+			"datetime.datetime.time()",
+			"datetime.datetime.now()",
+			"datetime.datetime.now().hour",
+			"import datetime",
+			"sublime.Window.status_message(sublime.Window.id(),\"hello\")",
+			"sublime.Window.status_message(o,\"hello\")",
+			"sublime.Window.status_message(sublime.Window,\"hello\")",
+			"sublime.Window.status_message(self.sublime.Window,\"hello\")",
+			"sublime.Window.status_message(self,\"hello\")",
+			"sublime.Window.status_message(\"hello\")",
+			"sublime.Window.status_message(string)",
+			"status_message(\"Hello\")",
+			"['first','second'][0]",
+			"str(datetime.datetime.now().year) +\"-\"+str(datetime.datetime.now().month)+\"-\"+str(datetime.datetime.now().day)+\" \"+str(datetime.datetime.now().hour)+\":\"+str(datetime.datetime.now().minute)+\":00\"",
+			"str(datetime.datetime.now().year) +\"-\"+str(datetime.datetime.now().month)+\"-\"+str(datetime.datetime.now().day)+\" \"+str(datetime.datetime.now().hour)+\":\"+str(datetime.datetime.now().minute+\":00\")",
+			"str(datetime.datetime.now().year) +\"-\"+str(datetime.datetime.now().month)+\"-\"+str(datetime.datetime.now().day)+\" \"+str(datetime.datetime.now().hour)+\":\"+str(datetime.datetime.now().minute)",
+			"str(datetime.datetime.now().year) +\"-\"+str(datetime.datetime.now().month)+\"-\"+str(datetime.datetime.now().day)+\" \"+str(datetime.datetime.now().hour)",
+			"str(datetime.datetime.now().year) +\"-\"+str(datetime.datetime.now().month+\"-\"+str(datetime.datetime.now().day+\" \"+str(datetime.datetime.now().hour)",
+			"str(datetime.datetime.now().year) +\"-\"+str(datetime.datetime.now().month)",
+			"datetime.datetime.now().year +\"-\"+datetime.datetime.now().month",
+			"datetime.datetime.now().year",
+			"datetime.datetime.now()",
+			"datetime.datetime",
+			"datetime.now()",
+			"datetime.now",
+			"datetime.datetime.timestamp()",
+			"datetime.now()",
+			"datetime.datetime()",
+			"datetime.datetime",
+			"import datetime",
+			"sublime_plugin.WindowCommand(sublime.window())",
+			"sublime_plugin.WindowCommand(sublime.window)",
+			"sublime_plugin.WindowCommand()",
+			"sublime_plugin.WindowCommand.",
+			"sublime_plugin.WindowCommand",
+			"sublime_plugin.WindowCommand.harvestcodepromotion",
+			"sublime_plugin.harvestcodepromotion",
+			"import sublime_plugin",
+			"sublime_plugin.harvestcodepromotion",
+			"sublime.harvestcodepromotion",
+			"sublime.Window.harvestcodepromotion",
+			"sublime.Window",
+			"Window",
+			"harvestcodepromotion",
+			"import subprocess",
+			"import os",
+			"setup",
+			"teradata-15.10.0.20.setup.py install",
+			"teradata-15.10.0.20.setup install",
+			"setup",
+			"udaExec = teradata.UdaExec (appName=\"HelloWorld\", version=\"1.0\", logConsole=False)",
+			"import teradata",
+			"udaExec = teradata.udaexec (appName=\"HelloWorld\", version=\"1.0\", logConsole=False)",
+			"teradata.udaexec",
+			"teradata.UdaExec",
+			"udaExec = teradata.UdaExec (appName=\"HelloWorld\", version=\"1.0\", logConsole=False)",
+			"import teradata",
+			"cls",
+			"import teradata\\-15\\.10\\.0\\.20;",
+			"import teradata\\-15\\.10\\.0\\.20",
+			"import \"teradata-15.10.0.20\"",
+			"setup.py",
+			"import teradata",
+			"import teradata-15.10.0.20",
+			"import teradata",
+			"setup.py install",
+			"setup",
+			"udaExec = teradata.UdaExec (appName=\"HelloWorld\", version=\"1.0\",logConsole=False)",
+			"import teradata",
+			"print(\"Hello\")",
+			"print(Hello)",
+			"exit()",
+			"python",
+			"print(row)",
+			"for row in ession.execute(\"SELECT TOP 10 * FROM RPT_DPTM_DB.scoringmodel\"):",
+			"ession = udaExec.connect(method=\"odbc\", system=\"devdbc\",username=\"INF_DPTM_DA_LD\",password=\"N4XwYf856\")",
+			"udaExec = teradata.UdaExec (appName=\"HelloWorld\", version=\"1.0\",logConsole=False)",
+			"import teradata",
+			"udaExec = teradata.UdaExec (appName=\"HelloWorld\", version=\"1.0\", logConsole=False)",
+			"udaExec = teradata.UdaExec (appName=\"HelloWorld\", version=\"1.0\",",
+			"import teradata",
+			"sys.path.append(\"C:\\\\Users\\\\roberd7\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python35-32\\\\Lib\\\\site-packages\")",
+			"import sys",
+			"sys.path.append(\"C:\\\\Users\\\\roberd7\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python35-32\\\\Lib\\\\site-packages\")",
+			"sys.path.append(\"C:\\Users\\roberd7\\AppData\\Local\\Programs\\Python\\Python35-32\\Lib\\site-packages\")",
+			"import teradata",
+			"import System.teradata",
+			"import teradata",
+			"import Default.teradata",
+			"import teradata",
+			"copyfile(\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Releases\\\\2017\\\\2017 01 - January\\\\SRP_Xref\\\\Perl\\\\dw3019DPTMXRef.pl\",\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Perl\\\\eproduct\\\\bin\\\\dw3019DPTMXRef.pl\")",
+			"from shutil import copyfile",
+			"import copyfile",
+			"copyfile(\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Releases\\\\2017\\\\2017 01 - January\\\\SRP_Xref\\\\Perl\\\\dw3019DPTMXRef.pl\",\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Perl\\\\eproduct\\\\bin\\\\dw3019DPTMXRef.pl\")",
+			"copyfile(\"C:\\Users\\roberd7\\Desktop\\ROOT\\Releases\\2017\\2017 01 - January\\SRP_Xref\\Perl\\dw3019DPTMXRef.pl\",\"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\eproduct\\bin\\dw3019DPTMXRef.pl\")",
+			"copyfile(C:\\Users\\roberd7\\Desktop\\ROOT\\Releases\\2017\\2017 01 - January\\SRP_Xref\\Perl\\dw3019DPTMXRef.pl,C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\eproduct\\bin\\dw3019DPTMXRef.pl)",
+			"import shutil",
+			"sublime.Window.show_quick_panel(sublime.Window(),[\"Hello\",\"GoodBye\"],print(\"Hello\"))",
+			"sublime.Window.show_quick_panel(sublime.Window,[\"Hello\",\"GoodBye\"],print(\"Hello\"))",
+			"sublime.Window.show_quick_panel(sublime.Window.self,[\"Hello\",\"GoodBye\"],print(\"Hello\"))",
+			"sublime.Window.show_quick_panel(sublime.View.window,[\"Hello\",\"GoodBye\"],print(\"Hello\"))",
+			"sublime.Window.show_quick_panel(sublime.View.window(),[\"Hello\",\"GoodBye\"],print(\"Hello\"))",
+			"sublime.Window.show_quick_panel(sublime.Window,[\"Hello\",\"GoodBye\"],print(\"Hello\"))",
+			"sublime.Window.show_quick_panel(sublime.Window.id(),[\"Hello\",\"GoodBye\"],print(\"Hello\"))",
+			"sublime.Window.show_quick_panel(sublime.Window,[\"Hello\",\"GoodBye\"],print(\"Hello\"))",
+			"sublime.Window.show_quick_panel(self,[\"Hello\",\"GoodBye\"],print(\"Hello\"))",
+			"sublime.Window.show_quick_panel()",
+			"sublime.Window.show_quick_panel([\"Hello\",\"GoodBye\"])",
+			"sublime.Window.show_quick_panel([\"Hello\",\"GoodBye\"],print(\"Hello\"))",
+			"sublime.Window.show_quick_panel",
+			"Sublime.window.show_quick_panel",
+			"sublime.window.show_quick_panel",
+			"sublime.window.show_quick_panl",
+			"fi",
+			"fi.close()",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"User.motdepasse",
+			"motdepass()",
+			"sublime.Window.open_file(\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Teradata\\\\Mot De Passe\",sublime.Window.id())",
+			"sublime.Window.open_file(\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Teradata\\\\Mot De Passe\",sublime.Window)",
+			"sublime.Window.open_file(\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Teradata\\\\Mot De Passe\",)",
+			"sublime.Window.open_file(\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Teradata\\\\Mot De Passe\")",
+			"sublime.Window.open_file()",
+			"sublime.Window"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages"
+	],
+	"file_history":
+	[
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/.runNumber",
+		"/c/users/roberd7/appdata/local/temp/answerset.txt",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/python_query_module.txt",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/udaexec.ini",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/executesql.py",
+		"/C/Users/roberd7/AppData/Local/Temp/TDPythonQuery.20161222123057-46.log",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/logs/TDPythonQuery.20161222113457-6.log",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/executesql-bkp.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/parm.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/updatetablestructure.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/copypath.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/copyfileto.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/app_naut2_npraw.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Menus/Main.sublime-menu",
+		"/C/Users/roberd7/Desktop/ROOT/Teradata/Mot De Passe",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Projects/Sublime_Plugins.sublime-project",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/prod",
+		"/C/Users/roberd7/Desktop/ROOT/Python/foobar2.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Projects/python_query_module.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Python/WordStreakSolver.py",
+		"/C/Users/roberd7/Desktop/ROOT/Python/foobar.py",
+		"/C/Users/roberd7/Desktop/ROOT/Python/myFirstProgram.py",
+		"/C/Users/roberd7/Desktop/ROOT/Python/Tinker_Hello_World.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/createpackages.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/executesql.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Main.sublime-menu",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/Design.rqr",
+		"/C/Users/roberd7/Desktop/ROOT/Python/words.txt",
+		"/C/Users/roberd7/Desktop/activation_code.txt",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/harvestcodepromotion.py",
+		"/C/Users/roberd7/Desktop/foobar2.py",
+		"/C/Users/roberd7/Desktop/foobar.py",
+		"/C/Users/roberd7/Desktop/test.py",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/RPT_FPER_APPS.A1_X_LU_DerivedChannel.sql",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/python_query_module.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/GDW_FPER_DPTM_3019_INTEGRATE_XREF.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/Xref_Scratchpad.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/XREF Logic.sql",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/importpackages.py",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 11 - November/SRP/Analysis.rqr",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/cleanupsql.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Context.sublime-menu",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/harvestcodepromotion.txt",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/test",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/Alter_FND_FPER_WORKDB_Summary_Tables.sql",
+		"/C/Users/roberd7/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/54FF5ISZ/Acquisition_Servicing_Channel.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/Alter_FND_FPER_DB_Summary_Tables.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Remarketing_Attributes/DDL/RPT_FPER_APPS.A1_BasePolicy.sql",
+		"/c/users/roberd7/appdata/local/temp/tmp3g2pkt",
+		"/c/users/roberd7/appdata/local/temp/tmpioyuvg",
+		"/c/users/roberd7/appdata/local/temp/tmpsty21p",
+		"/c/users/roberd7/appdata/local/temp/tmpzr4hy9",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Remarketing_Attributes/DML/BusinessDictionary.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Remarketing_Attributes/Remarketing Attributes Requirements.msg",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/FND_FPER_DB.BaseAgent.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/RPT_FPER_APPS.A1_BaseAgent.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/RPT_FPER_APPS.Summary_Views.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/FND_FPER_BASE.LU_AcquisitionChannel.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/Oracle_Entries.sql",
+		"/C/Users/roberd7/Desktop/ROOT/BTEQs/app_FPERW_FPERX.wf_4825_RPT_FPER_SOCSAgency.cm_4825_RPT_FPER_SOCSAgency.bteq",
+		"/C/Users/roberd7/Desktop/ROOT/BTEQs/app_FPERW_FPERX.wf_4500_RPT_FPER_SOCSAgency.cm_4500_RPT_FPER_SOCSAgency.bteq",
+		"/C/Users/roberd7/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-scmp.nwie.net-1635-9093-8831958/app_FPERW_FPERX.wf_4500_RPT_FPER_SOCSAgency.cm_4500_RPT_FPER_SOCSAgency.bteq",
+		"/C/Users/roberd7/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-scmp.nwie.net-1635-9093-8831752/app_FPERW_FPERX.wf_4825_RPT_FPER_SOCSAgency.cm_4825_RPT_FPER_SOCSAgency.bteq",
+		"/C/Users/roberd7/Documents/My Received Files/app_FPERW_FPERX.wf_4825_RPT_FPER_SOCSAgency.cm_4825_RPT_FPER_SOCSAgency.bteq",
+		"/C/Users/roberd7/Documents/My Received Files/app_FPERW_FPERX.wf_4500_RPT_FPER_SOCSAgency.cm_4500_RPT_FPER_SOCSAgency.bteq",
+		"/C/Users/roberd7/Documents/MobaXterm/slash/RemoteFiles/1252434_7_0/app_NAUT2_NPRAW.wf_4500_NPRA_PolicyInsured.cm_4500_NPRA_PolicyInsured.bteq",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DML/BusinessDictionary.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Informatica/FolderForEDW_Migration.txt",
+		"/C/Users/roberd7/RubymineProjects/EDW/.idea/EDW.iml",
+		"/C/Users/roberd7/RubymineProjects/EDW/.idea/modules.xml",
+		"/C/Users/roberd7/RubymineProjects/EDW/.idea/workspace.xml",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DCL/Permissions.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 12 - December/Data Governance_2/Data Governance.rqr",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 12 - December/Data Governance/Requirements-Data-Governance.rqr",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 12 - December/Data Governance/CM_TD_Scripts.sql",
+		"/C/Users/roberd7/Desktop/Sample_Console_Query.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/FND_FPER_BASE.BaseAgent.sql",
+		"/C/Users/roberd7/Downloads/MSI_IA_CLAIMS_VIEWS.A1_POLICY.sql",
+		"/C/Users/roberd7/Downloads/MSI_IA_CLAIMS_VIEWS_A1_CLAIM1.sql",
+		"/C/Users/roberd7/Downloads/MetadataObjects (1).sql",
+		"/C/Users/roberd7/Downloads/DataGovernanceDML.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/SmartRideEProdXref.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/FND_FPER_WORKDB.WK_FactCoverageEarnedSummary.sql",
+		"/C/Users/roberd7/Desktop/m_4004_FactCoverageEarnedSummary_FactCoverageEarned_wk.XML",
+		"/C/Users/roberd7/Desktop/m_4004_FactCoverageEarnedSummary_FactCoverageEarned_wk2.XML",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/Unscheduled/tech_debt.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/X2_SmartRideEprodXref.sql",
+		"/C/Users/roberd7/Desktop/Acquisition_Servicing_Channel.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/Unscheduled/Spool Issues/Query 1.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/FND_FSHR_DB.TP_DERIVEDCHANNEL_01.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/A1_BaseAgent.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/Summary_Views.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/Alter_Summary_Tables.sql",
+		"/C/Users/roberd7/AppData/Local/Temp.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/A1_X_LU_DerivedChannel.sql",
+		"/c/users/roberd7/appdata/local/temp/tmpd7j6k1",
+		"/c/users/roberd7/appdata/local/temp/tmpj2ruv9",
+		"/c/users/roberd7/appdata/local/temp/tmpd16my_",
+		"/c/users/roberd7/appdata/local/temp/tmpsjca5z",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/Servicing Channel Requirements.xlsx",
+		"//spot.nwie.net@SSL/DavWWWRoot/site/dwpu/The Data Warehouse/DW Requirements and Data Analysis/Documentation - Target to Source/eProduct/Shared Components/Target to Source - FND_FSHR_DB CALENDAR.DOC",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/Unscheduled/test_Create161128104235.xml",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/Unscheduled/Reports_Import161128104410.xml",
+		"/C/Program Files (x86)/MicroStrategy/Object Manager/importProjectPackage2.xml",
+		"/C/Program Files (x86)/MicroStrategy/Object Manager/createProjectPackage2.xml",
+		"/c/users/roberd7/appdata/local/temp/tmpb02_nf",
+		"/C/Users/roberd7/Desktop/ROOT/BTEQs/MCMS/app_FPER_XXXX.GDW_FPER_MARKETCOALITION_CurrentPolicyTerm.bteq",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-menu",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/GDWDPTDD.xlsx",
+		"/c/users/roberd7/appdata/local/temp/tmptww8lc",
+		"/c/users/roberd7/appdata/local/temp/tmpxqt88c",
+		"/c/users/roberd7/appdata/local/temp/tmpdhcan9",
+		"/C/Users/roberd7/Desktop/ROOT/BTEQs/app_FPERW_FPERX.wf_4500_FPER_CKSPrimScndPhoneNumbers.cm_4500_FPER_CKSPrimScndPhoneNumbers.bteq.log",
+		"/C/Users/roberd7/Desktop/ROOT/BTEQs/app_FPERW_FPERX.wf_4500_FPER_CKSPrimScndPhoneNumbers.cm_4500_FPER_CKSPrimScndPhoneNumbers.bteq",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/Impacted Objects.rqr",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 06 - June/M1 Endorsement/Ruby - M1 Endorsement",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 09 - September/Orion/Impacted Objects.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 09 - September/Orion/DDL/FND_FPER_DB/AutoInsuredItem.tbl",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/ClickableUrls_SublimeText-master/README.md",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/RQR.sublime-syntax",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Theme - My Monokai/My Monokai.tmTheme",
+		"/c/users/roberd7/appdata/local/temp/tmptmsqup",
+		"/c/users/roberd7/appdata/local/temp/tmpqqjlg0",
+		"/c/users/roberd7/appdata/local/temp/tmpwmrn24",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/F2_FactInsuredItemEarned.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/F3_FactCoverageEarned.sql",
+		"/C/Users/roberd7/AppData/Roaming/Subversion/servers"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Projects and Defects\\2016 09 - September\\Orion"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\t",
+			"'[1-4]'",
+			"hello",
+			"\\n",
+			"self.window",
+			"\\xA0",
+			"priorcarrier_tp",
+			"$product_fnd_db",
+			"$product_shr_db",
+			"$product_rpt_db",
+			"product_views_db",
+			"\\)\\s*\\(",
+			"\\n",
+			"FND_FPER_BASE",
+			"RPT_FPER_DB.LU_AcquisitionChannel",
+			"JOIN\\s",
+			"FROM\t",
+			"FROM\\s",
+			"New Source BaseAgent",
+			"New Source LU_AcquisitionChannel",
+			"^.Acqu",
+			"(?<=ADD)..\\n",
+			"(?<=ADD).",
+			"ADD\\n",
+			"\\)",
+			"\\(",
+			"(",
+			"COLUMN",
+			";",
+			"FROM",
+			"Fact;",
+			"/",
+			"\t\t\n",
+			"EDWTEST",
+			"_FO",
+			"FND_FSHR_DB",
+			"FND_FPER_DB_FO",
+			"\\n",
+			">\\n",
+			"^<",
+			">^",
+			"permissions",
+			"method",
+			"session",
+			"FND_FSHR",
+			"FND_FPER_DB_RO",
+			"EDWPROD",
+			"EDWDEVL",
+			"SRTM",
+			";",
+			"\\;",
+			";",
+			"\\n",
+			",\\|",
+			"Object_Nm_New",
+			"\\tVehicle ",
+			"$",
+			"${RPT_FPER_DB}",
+			"${FND_ACQUISITIONCHANNEL_WORKDB}",
+			"${RPT_FPER_DB}",
+			"InsertJobEventReady( \\%ProcVars );",
+			"Wk_SmartRideEProdXref",
+			"slvmcore0167.nwie.net",
+			".........,",
+			"3023",
+			"3022",
+			"3021",
+			"PLT_RPT_FPER_DB",
+			"A1_EvtRptClaim.vw:    left outer join ",
+			"Integrity Manager Tests",
+			"FND_FSHR_DB_FO",
+			"\\n",
+			"RPT_EVAT_APPS.",
+			")",
+			"',",
+			"'61",
+			"RPT_FPER_DB",
+			"inner join",
+			"export ",
+			"3018",
+			"ALL_WKSCRATCHPAD_DB",
+			"wk_pu",
+			"GOTO ERRORLEVEL",
+			"RPT_MCMS_DB.MCMSPolicyData",
+			"RPT_GALAXY_EXTRACT",
+			"${",
+			"telematicsenroll_dt",
+			"FND_FPER_DB.",
+			"telematicsEnroll_Dt",
+			"TelematicsEnroll_Dt",
+			"telematicsin",
+			"insureditemvehicle",
+			"lu8",
+			"ALL_WKSCRATCHPAD_DB.GeneralTransaction",
+			"ALL_WKSCRATCHPAD_.",
+			"DKR_TRAN_COVG_SUMMARY_ALL",
+			"${FND_NPRA_WORKDB}.WK",
+			"${PCDW_AUTO2}",
+			"${FND_FSHR_DB}",
+			"LOADEVNT.LoadEvent_Id1",
+			"${FND_NPRA_WORKDB}",
+			"DKR",
+			"COLLECT",
+			"${FND_NPRA_WORKDB}.WK",
+			"${PCDW_AUTO2}",
+			"${FND_NPRA_WORKDB}.WK",
+			"FND_NPRA_wORKDB",
+			"telematicsenroll_dt",
+			"Premium_Mod_Insured_Item",
+			"WK_AUTO2_PremiumModInsItem_GT",
+			"TelematicsDisc_Cd",
+			"TelematicsEnroll_Dt",
+			"${FND_FPER_DB}",
+			"PolicyBusinessKey_Id",
+			"FND_FPER_DB",
+			"BP.FullPolicy_Nb",
+			"RPT_GALAXY_EXTRACT",
+			"FullPolicy_Nb",
+			"\\w\\w.FullPolicy_Nb",
+			"FullPolicy_Nb",
+			"SELECTION",
+			"V022ComrslVehWithComrslReg_Ct",
+			"INTEGER",
+			"FULLPOLICY_NB",
+			"source",
+			"xml",
+			"source",
+			"FND_FPER_DB_FO.FactPolicyInforce"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"[1-4]",
+			" ",
+			"",
+			"self.view.window",
+			"\\xA0",
+			"\\xC2",
+			"$$product_fnd_db",
+			"$$product_shr_db",
+			"$$product_rpt_db",
+			"product_rpt_db",
+			"",
+			"$product_views_db",
+			"FND_FPER_BASE.LU_AcquisitionChannel",
+			"JOIN RPT_FPER_APPS_ENV1.",
+			"FROM RPT_FPER_APPS_ENV1.",
+			"FROM\\sRPT_FPER_APPS_ENV1.",
+			"New Source $product_fnd_db.BaseAgent",
+			"New Source $product_shr_db.XREF_XT",
+			" ADD Acqu",
+			" ",
+			"",
+			"ADD",
+			"",
+			"\\n ADD COLUMN (\\n ServicingChannel_Tp SMALLINT NOT NULL DEFAULT 0,\\n AcquisitionChannel_Tp SMALLINT NOT NULL DEFAULT 0);",
+			"\\n ADD COLUMN \\n ServicingChannel_Tp SMALLINT NOT NULL DEFAULT 0,\\n AcquisitionChannel_Tp SMALLINT NOT NULL DEFAULT 0;",
+			"ALTER TABLE",
+			";",
+			"\\",
+			"EDWPROD",
+			"FND_FPER_DB",
+			"",
+			">\\\\n\\n",
+			"FND_FPER_DB_FO",
+			"EDWTEST",
+			"DPTM",
+			"\\n",
+			";\\n",
+			";",
+			"Object_Nm",
+			"",
+			"RPT_FPER_DB",
+			"FND_FPER_DB",
+			"RPT_FPER_DB",
+			"Wk_SmartRideEProdXref_TGT",
+			",",
+			"3032",
+			"3031",
+			"3030",
+			"RPT_FPER_DB",
+			"",
+			"Integrity_Manager_Tests",
+			"RPT_FPER_APPS_ENV1",
+			"\\nTP.",
+			"\\nS2T.",
+			"\\nXT.",
+			"",
+			");",
+			"','PAS')",
+			"insert into fnd_fshr_db.policybusinesskeyid_xt values (0,'61",
+			"PLT_RPT_FPER_DB",
+			"",
+			"GOTO EOJ",
+			"ALL_WKSCRATCHPAD_DB.MCMSPolicyData",
+			"ALL_WKSCRATCHPAD_DB",
+			"FND_FPER_DB_FO.",
+			"lu",
+			"ALL_WKSCRATCHPAD_DB.DKR_GeneralTransaction",
+			"ALL_WKSCRATCHPAD_DB.",
+			"ALL_WKSCRATCHPAD_.DKR",
+			"ALL_WKSCRATCHPAD_DB.DKR",
+			"FND_NPRA_WORKDB.DKR",
+			"PCDW_AUTO2",
+			"FND_FSHR_DB",
+			"1234567000000000",
+			"ALL_WKSCRATCHPAD_DB",
+			"ALL_WKSCRATCHPAD_DB.DKR",
+			"PCDW_AUTO2",
+			"ALL_WKSCRATCHPAD_DB.DKR",
+			"FND_FPER_DB",
+			"FullPolicy_Nb",
+			"${FND_FPER_DB}",
+			"FND_FPER_DB",
+			"TRIM(BP.FullPolicy_Nb)",
+			"ALL_WKSCRATCHPAD_DB",
+			"BYTEINT",
+			"FND_FPER_DB.FactPolicyInforce",
+			"FND_FPER_DB_FO",
+			"FND_NPPS_WORKDB",
+			"FND_FPER_DB_FO",
+			"FND_NPPS_WORKDB",
+			"ALL_WKSCRATCHPAD_DB.dkr_factpolicyinforcesummary",
+			"FND_FPER_DB.FactInsuredItemInforce",
+			"FND_FPER_DB_FO",
+			"FND_NPPS_WORKDB",
+			"ALL_WKSCRATCHPAD_DB.dkr_FactInsuredItemInforce",
+			"AALL_WKSCRATCHPAD_DB.dkr_FactInsuredItemInforce",
+			"ALL_WKSCRATCHPAD_DB.dkr_FactPolicyInforce",
+			"FND_NPPS_WORKDB",
+			"FND_FPER_DB_FO",
+			"dkr_FactInsuredItemInforce",
+			"FND_FPER_BASE",
+			"DKR_FactInsItemInforceSummary",
+			"FND_FPER_DB_FO",
+			"FND_FPER_DB",
+			"FND_NPPS_WORKDB",
+			"DKR_factcoverageinforcesummary",
+			"FND_FPER_DB",
+			"FND_NPPS_WORKDB",
+			".GOTO EOJ",
+			"FND_FPER_DB",
+			"FND_NPPS_WORKDB",
+			"DKR_FactInsItemActivitySummary",
+			"",
+			"ALL_WKSCRATCHPAD_DB.D",
+			" OR",
+			"OR",
+			"<>",
+			"",
+			"= Updt.",
+			"",
+			"Revision_Ts (DATE)",
+			"Transaction_Ts (DATE)",
+			"RPT_GALAXY_EXTRACT",
+			"CSTS",
+			"BA.",
+			"Load_Dt",
+			"PolicyBrand_Ds"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 400.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 269.0
+	},
+	"pinned_build_system": "",
+	"project": "Sublime_Plugins.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\Python.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: XLSM
+file_extensions:
+  - xlsm
+  - xls
+  - xlsx
+scope: source.xlsm
+contexts:
+  main:
+
+    - match: '.*'
+    

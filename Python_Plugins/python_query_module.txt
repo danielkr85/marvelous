@@ -1,0 +1,32 @@
+import getopt,sys,teradata,tempfile,os
+
+optlist,args = getopt.getopt(sys.argv[1:],'u:p:e:s:')
+
+for opt,value in optlist:
+	if(opt =='-e'):
+		environment = value
+	if(opt == '-s'):
+		sql = value
+
+environment = '${'+environment+'}'
+home='C:'+os.environ['HOMEPATH']
+udaExec = teradata.UdaExec (systemConfigFile=home+"\\AppData\\Roaming\\Sublime Text 3\\Packages\\Python_Plugins\\udaexec.ini",logFile=tempfile.gettempdir()+"\${appName}.${runNumber}.log")
+
+try:
+	session = udaExec.connect(environment, password="$$tdwallet(td_credential)")
+	result = session.execute(sql)
+
+	columns=[]
+	for column in result.description:
+		columns.append(column[0])
+	print(','.join(columns))
+
+	for record in result:
+		row=[]
+		for item in record:
+			row.append(str(item))
+		print(','.join(row))
+
+except Exception as e:
+	print(e)
+	print(udaExec.logFile)

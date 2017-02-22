@@ -1,0 +1,20 @@
+[
+    {
+        "caption": "Plugins",
+        "mnemonic": "O",
+        "id": "user",
+        "children":
+        [
+            { "command": "motdepasse", "caption": "Pass Partout", "mnemonic": "P" },
+            {"command":"harvestcodepromotion","caption":"Promote Harvest Package"},
+            {
+                "caption": "Copy Parm File Path",
+                "id": "user",
+                "children":
+                [
+                    { "command": "app_naut2_npraw", "caption": "app_NAUT2_NPRAW.PARM" }
+                ]
+            }     
+        ]
+    }
+]

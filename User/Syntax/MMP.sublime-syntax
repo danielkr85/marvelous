@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: mmp
+file_extensions:
+   - mmp
+scope: source.mmp
+contexts:
+  main:
+    - match: '.*'  

@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\roberd7\\Desktop\\ROOT\\GIT",
+			"file_exclude_patterns":
+			[
+				"*.sublime-project"
+			]
+		}
+	]
+}

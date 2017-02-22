@@ -1,0 +1,35 @@
+%YAML 1.2
+---
+name: RQR
+file_extensions:
+  - rqr
+scope: source.rqr
+contexts:
+  main:
+
+    - match: '(?i:^(?<!\t)\w.*((DONE)|(In Progress)|(Incomplete)))|(?i:^(?<!\t)\w.*)'
+      scope: title
+      captures:
+        
+        2: done.rqr
+        3: inprogress.rqr
+        4: incomplete.rqr
+
+    - match: '(?i:^\t\w.+((DONE)|(In Progress)|(Incomplete)))|(?i:^\t\w.+)'
+      scope: subtitle.rqr
+      captures:
+        
+        2: done.rqr
+        3: inprogress.rqr
+        4: incomplete.rqr
+
+    - match: '\*.*\n'
+      scope: asterisk.rqr
+
+    - match: '(?i:^\t\t\w.+((DONE)|(In Progress)|(Incomplete)))|(?i:^\t\t\w.+)'
+      scope: bulletpoint.rqr
+      captures:
+
+        2: done.rqr
+        3: inprogress.rqr
+        4: incomplete.rqr

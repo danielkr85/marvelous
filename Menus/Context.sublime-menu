@@ -1,0 +1,18 @@
+[
+	{ "command": "bteq","caption":"Execute BTEQ" },
+	{ "command": "parm","caption":"Update Parameters" },
+	{ "command": "executesql","caption":"Execute SQL" },
+	{ 
+		"caption": "Text editing",
+		"children":
+		[
+		{"command": "addcommas","caption":"Add Commas"},
+		{"command": "addcommasandquotes","caption":"Add Commas and Quotes"},
+		{"command": "removewhitespace","caption":"Remove white space"},
+		{"command": "blockcomment","caption":"Block comment"},
+		{"command": "cleanupsql","caption":"Clean Up SQL"}
+		]
+	},
+	{ "command": "updatetablestructure","caption":"Update Table Structure" }
+	
+]
