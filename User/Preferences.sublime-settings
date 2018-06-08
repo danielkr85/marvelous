@@ -1,13 +1,14 @@
 {
 	"color_scheme": "Packages/User/Theme - My Monokai/My Monokai.tmTheme",
+	"default_line_ending": "unix",
 	"draw_white_space": "all",
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"SFTP",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"preview_on_click": false
+	"preview_on_click": false,
+	"theme": "Default.sublime-theme"
 }

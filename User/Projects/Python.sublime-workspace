@@ -240,21 +240,21 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/roberd7/Desktop/ROOT/Python"
 	],
 	"file_history":
 	[
 		"/C/Users/roberd7/Desktop/ROOT/Python/foobar2.py",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Projects/python_query_module.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Python/WordStreakSolver.py",
 		"/C/Users/roberd7/Desktop/ROOT/Python/foobar.py",
 		"/C/Users/roberd7/Desktop/ROOT/Python/myFirstProgram.py",
+		"/C/Users/roberd7/Desktop/ROOT/Python/Teradata Python Module.html",
 		"/C/Users/roberd7/Desktop/ROOT/Python/Tinker_Hello_World.py",
+		"/C/Users/roberd7/Desktop/ROOT/Python/words.txt",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Projects/python_query_module.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Python/WordStreakSolver.py",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/createpackages.py",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/executesql.py",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Main.sublime-menu",
 		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/Design.rqr",
-		"/C/Users/roberd7/Desktop/ROOT/Python/words.txt",
 		"/C/Users/roberd7/Desktop/activation_code.txt",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/harvestcodepromotion.py",
 		"/C/Users/roberd7/Desktop/foobar2.py",
@@ -370,8 +370,7 @@
 		"/c/users/roberd7/appdata/local/temp/tmp44payb",
 		"/c/users/roberd7/appdata/local/temp/tmpbf0dsi",
 		"/c/users/roberd7/appdata/local/temp/tmpriefj9",
-		"/c/users/roberd7/appdata/local/temp/tmpm15w7u",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/Unscheduled/Test/Test_Create161118161534.xml"
+		"/c/users/roberd7/appdata/local/temp/tmpm15w7u"
 	],
 	"find":
 	{
@@ -739,7 +738,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\Projects and Defects.sublime-project"
+				"C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\git.sublime-project"
 			]
 		],
 		"width": 380.0

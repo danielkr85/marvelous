@@ -55,8 +55,9 @@ class harvestcodepromotionCommand(sublime_plugin.WindowCommand):
 		self.implementationtime = userinput
 		sqlcommand = "EXEC RPT_INFA_DB.Harvest_Package_Promotion_Macro ('"+self.packagename+"','"+self.username+"','"+self.packagetype+"','"+self.implementationtime+"');"
 		print(sqlcommand)
-		thread1 = myThread1(1,"Thread-1",1,self.username,self.environment,sqlcommand)
-		thread1.start()
+		sublime.set_clipboard(sqlcommand)
+		#thread1 = myThread1(1,"Thread-1",1,self.username,self.environment,sqlcommand)
+		#thread1.start()
 
 class myThread1 (threading.Thread):
 	def __init__(self, threadID, name, counter,username,environment,sqlcommand):
@@ -72,7 +73,6 @@ class myThread1 (threading.Thread):
 		print ("Starting " + self.name)
 		command = 'python "C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages\\Python_Plugins\\python_query_module.txt" -e '+self.environment+' -s "'+self.sqlcommand +'"'
 		CREATE_NO_WINDOW = 0x08000000
-		print (command)
 		try:
 			returncode = subprocess.check_call(command,creationflags=CREATE_NO_WINDOW)
 			if (returncode==0):

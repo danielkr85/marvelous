@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"line",
+				"linebegM"
+			],
+			[
+				"nu",
+				"numberInt"
+			],
+			[
+				"numb",
+				"numberStr"
+			],
+			[
 				"app",
 				"app_CALCULATE_EPRODUCT"
 			],
@@ -27,6 +39,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/bigiparm.py",
+			"settings":
+			{
+				"buffer_size": 771,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Menus/Context.sublime-menu",
+			"settings":
+			{
+				"buffer_size": 809,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/Default/Syntax Tests.sublime-build",
 	"build_system_choices":
@@ -99,6 +129,11 @@
 		"height": 200.0,
 		"history":
 		[
+			"sublime.run_command('iterate_number')",
+			"sublime.run_command('insertiteration')",
+			"sublime.run_command",
+			"sublime",
+			"Sublime",
 			"sublime.View.window",
 			"sublime.View",
 			"sublime.view",
@@ -221,12 +256,7 @@
 			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 			"User.motdepasse",
 			"motdepass()",
-			"sublime.Window.open_file(\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Teradata\\\\Mot De Passe\",sublime.Window.id())",
-			"sublime.Window.open_file(\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Teradata\\\\Mot De Passe\",sublime.Window)",
-			"sublime.Window.open_file(\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Teradata\\\\Mot De Passe\",)",
-			"sublime.Window.open_file(\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Teradata\\\\Mot De Passe\")",
-			"sublime.Window.open_file()",
-			"sublime.Window"
+			"sublime.Window.open_file(\"C:\\\\Users\\\\roberd7\\\\Desktop\\\\ROOT\\\\Teradata\\\\Mot De Passe\",sublime.Window.id())"
 		]
 	},
 	"distraction_free":
@@ -240,25 +270,44 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages"
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Menus",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins"
 	],
 	"file_history":
 	[
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/.runNumber",
-		"/c/users/roberd7/appdata/local/temp/answerset.txt",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/harvestcodepromotion.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/tablefy.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Menus/Context.sublime-menu",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Markdown Table Formatter/Main.sublime-menu",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Markdown Table Formatter/markdown_table_formatter.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/addcommas.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/removewhitespace.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/cleanupsql.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/iterate_number.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/executesql.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/openincmder.py",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/python_query_module.txt",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/udaexec.ini",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/executesql.py",
+		"/C/Users/roberd7/AppData/Local/Temp/TDPythonQuery.20170620090336-82.log",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Menus/Main.sublime-menu",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/copyfileto.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/parm.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/ClickableUrls_SublimeText-master/clickable_urls.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Compare-Side-By-Side/sbs_compare.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/app_naut2_npraw.py",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Menus/Side Bar.sublime-menu",
+		"/c/users/roberd7/appdata/local/temp/answerset.sql",
+		"/C/Users/roberd7/AppData/Local/Temp/TDPythonQuery.20170505082859-79.log",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/createundopackages.py",
+		"/C/Users/roberd7/Desktop/ROOT/Teradata/Mot De Passe",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/.runNumber",
+		"/c/users/roberd7/appdata/local/temp/answerset.txt",
 		"/C/Users/roberd7/AppData/Local/Temp/TDPythonQuery.20161222123057-46.log",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/logs/TDPythonQuery.20161222113457-6.log",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/executesql-bkp.py",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/parm.py",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/updatetablestructure.py",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/copypath.py",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/copyfileto.py",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/app_naut2_npraw.py",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Menus/Main.sublime-menu",
-		"/C/Users/roberd7/Desktop/ROOT/Teradata/Mot De Passe",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Projects/Sublime_Plugins.sublime-project",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/prod",
@@ -354,28 +403,11 @@
 		"/C/Users/roberd7/Desktop/ROOT/BTEQs/MCMS/app_FPER_XXXX.GDW_FPER_MARKETCOALITION_CurrentPolicyTerm.bteq",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-menu",
 		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/GDWDPTDD.xlsx",
-		"/c/users/roberd7/appdata/local/temp/tmptww8lc",
-		"/c/users/roberd7/appdata/local/temp/tmpxqt88c",
-		"/c/users/roberd7/appdata/local/temp/tmpdhcan9",
-		"/C/Users/roberd7/Desktop/ROOT/BTEQs/app_FPERW_FPERX.wf_4500_FPER_CKSPrimScndPhoneNumbers.cm_4500_FPER_CKSPrimScndPhoneNumbers.bteq.log",
-		"/C/Users/roberd7/Desktop/ROOT/BTEQs/app_FPERW_FPERX.wf_4500_FPER_CKSPrimScndPhoneNumbers.cm_4500_FPER_CKSPrimScndPhoneNumbers.bteq",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/Impacted Objects.rqr",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 06 - June/M1 Endorsement/Ruby - M1 Endorsement",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 09 - September/Orion/Impacted Objects.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 09 - September/Orion/DDL/FND_FPER_DB/AutoInsuredItem.tbl",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/ClickableUrls_SublimeText-master/README.md",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/RQR.sublime-syntax",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Theme - My Monokai/My Monokai.tmTheme",
-		"/c/users/roberd7/appdata/local/temp/tmptmsqup",
-		"/c/users/roberd7/appdata/local/temp/tmpqqjlg0",
-		"/c/users/roberd7/appdata/local/temp/tmpwmrn24",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/F2_FactInsuredItemEarned.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/F3_FactCoverageEarned.sql",
-		"/C/Users/roberd7/AppData/Roaming/Subversion/servers"
+		"/c/users/roberd7/appdata/local/temp/tmptww8lc"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -663,14 +695,75 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/bigiparm.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"git_savvy.repo_path": "C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Menus/Context.sublime-menu",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"git_savvy.repo_path": "C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 25.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -699,6 +792,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 142.0
+	},
 	"output.exec":
 	{
 		"height": 400.0
@@ -739,7 +836,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\Python.sublime-project"
+				"C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\BIGI.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -761,7 +858,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 213.0,
+	"side_bar_width": 375.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -241,25 +241,83 @@
 	"expanded_folders":
 	[
 		"/C/Users/roberd7/desktop/ROOT/Releases",
-		"/C/Users/roberd7/desktop/ROOT/Releases/PLT/Remarketing_Attributes/Packages",
-		"/C/Users/roberd7/desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel",
-		"/C/Users/roberd7/desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DCL",
-		"/C/Users/roberd7/desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL",
-		"/C/Users/roberd7/desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DML"
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 01 - January",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 02 - February",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 03 - March",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 04 - April",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 04 - April/Acquisition Channel",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 04 - April/Acquisition Channel/ESP",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 04 - April/Acquisition Channel/Oracle Scripts",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 05 - May",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 05 - May/Acquisition Channel - May Release",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 05 - May/Acquisition Channel - May Release/BteqLogs",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 05 - May/Acquisition Channel - May Release/Requirements",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 06 - June",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 07 - July",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 08 - August",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 09 - September",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 10 - October",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/Logs",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 12 - December",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/INFA"
 	],
 	"file_history":
 	[
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 05 - May/Acquisition Channel - May Release/Requirements/Requirements.txt",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 05 - May/Acquisition Channel - May Release/BteqLogs/app_NPRAW_FPERW.wf_4500_NPRA_AcquisitionChannel.cm_4500_NPRA_AcquisitionChannel.bteq.0.31950.log",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 04 - April/Acquisition Channel/Incremental Logic - NPPS BR Table.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 04 - April/Acquisition Channel/Incremental Logic - NPRA BR table.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 04 - April/Acquisition Channel/Incremental Logic - APPS BR Table.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 04 - April/Acquisition Channel/Incremental Logic - PSAA BR Table.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/XREF Logic.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/Analysis.rqr",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/Logs/dw1007DPTMAcquire.pl.1007.20160928152405_2637643.log",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/GDWDPTDD_File_Trigger.txt",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/GDWDPTDD.xlsx",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/Oracle/Job_Detail.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/Oracle_Entries.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/Impacted Objects.rqr",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/GDWDPTDD.xlsx",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/Teradata/DDL - Tables/RPT_DPTM_DB/ScoringModel.tbl",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 09 - September/Orion/Impacted Objects.txt",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 07 - July/EVT New Metrics/Requirements.txt",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 02 - February/EVT/Patches/EVTRptKeyBase.patches.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 04 - April/EVT MSI Metrics/ReportStatus_Ds Patch.txt",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/SmartRideEProdXref.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/loadID.txt",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/Teradata/DDL - Tables/RPT_DPTM_DB/SmartRideProgramInstance.tbl",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/Teradata/DDL - Tables/RPT_DPTM_DB/SmartRideVehicle.tbl",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/Teradata/DDL - Tables/RPT_DPTM_DB/SmartRideVehicleDetail.tbl",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/Teradata/DDL - Tables/RPT_DPTM_DB/SmartRideScore.tbl",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 11 - November/SRP/Teradata/DDL - Tables/RPT_DPTM_DB/SmartRidePolicy.tbl",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/Xref_Scratchpad.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/GDW_FPER_DPTM_3019_INTEGRATE_XREF.txt",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 09 - September/Orion/Orion-Connected Car Project DW Requirements v2.xlsx",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 09 - September/Orion/BusinessDictionaryUpdate.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 10 - October/TelematicsEnroll_Dt Defect/Adjust Rule for building TelematicsEnroll_Dt.rqr",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 10 - October/TelematicsEnroll_Dt Defect/BTEQ/app_NPLA2_NPLAW.wf_4500_NPLA_AutoInsuredItem.cm_4500_NPLA_AutoInsuredItem.bteq",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/X2_SmartRideEprodXref.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 10 - October/TelematicsEnroll_Dt Defect/BTEQ/app_NAUT2_NPRAW.wf_4500_NPRA_AutoInsuredItem.cm_4500_NPRA_AutoInsuredItem.bteq",
+		"/C/Users/roberd7/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-scmp.nwie.net-1635-9093-8817111/app_NAUT2_NPRAW.wf_4500_NPRA_AutoInsuredItem.cm_4500_NPRA_AutoInsuredItem.bteq",
+		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/F2_FactInsuredItemEarned.sql",
+		"/C/Users/roberd7/desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/DDL/RPT_FPER_APPS.Summary_Views.sql",
+		"/C/Users/roberd7/Downloads/Permissions.sql",
 		"/C/Users/roberd7/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/JBGAYHAV/MOM - Smartride Tickets 1-09.txt",
 		"/C/Users/roberd7/desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/Design.rqr",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Syntax/RQR.sublime-syntax",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/executesql.py",
 		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Theme - My Monokai/My Monokai.tmTheme",
 		"/C/Users/roberd7/Desktop/Integrity_Manager_Tests/send_email_example.py",
-		"/C/Users/roberd7/desktop/ROOT/Releases/2016/2016 09 - September/Orion/Impacted Objects.txt",
 		"/W/Console/Dan/Level 4 (Loss) Auto Product Bulk Export Report Template",
 		"/c/users/roberd7/appdata/local/temp/answerset.sql",
 		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/F3_FactCoverageEarned.sql",
-		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/F2_FactInsuredItemEarned.sql",
 		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/DDL/Wk_SmartRideEProdXref_Score.sql",
 		"/C/Users/roberd7/Downloads/TeradataAccess.sql",
 		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/Perl/dw3xxxDPTMIntegrate.pl",
@@ -267,7 +325,6 @@
 		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/DG/DG_DML.sql",
 		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/Perl/dw3019DPTMXRef.pl",
 		"/C/Users/roberd7/Downloads/Oracle_Entries (2).sql",
-		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/Oracle_Entries.sql",
 		"/C/devl/hadoop/2.6/bin/hadoop.cmd",
 		"/C/devl/hadoop/2.6/etc/hadoop/mapred-site.xml",
 		"/C/devl/hadoop/2.6/etc/hadoop/yarn-site.xml",
@@ -340,47 +397,11 @@
 		"/W/Console/Dan/Level 2 - Baseline",
 		"/C/Users/roberd7/Desktop/ROOT/Powershell/Powerhsell Tips.txt",
 		"/W/Console/DASM/Level 2 Test",
-		"/W/Console/DASM/Level 2 Test 2",
-		"/c/users/roberd7/appdata/local/temp/tmpompxyi",
-		"/C/Users/roberd7/desktop/ROOT/Releases/2017/2017 01 - January/SRP_Xref/Impacted Objects.rqr",
-		"/c/users/roberd7/appdata/local/temp/tmp3csrj3",
-		"/c/users/roberd7/appdata/local/temp/tmpsu7iia",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Menus/Context.sublime-menu",
-		"/c/users/roberd7/appdata/local/temp/answerset.txt",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Projects/Projects and Defects.sublime-project",
-		"/C/__Argon__.tmp",
-		"/C/searchengine.log",
-		"/C/eula.1028.txt",
-		"/C/AboutLoad.ini",
-		"/C/Program Files (x86)/Microsoft Office/root/Office16/LYNC.EXE.MANIFEST",
-		"/C/Program Files (x86)/Microsoft Office/root/Office16/Lync2013_Third_Party_Notices.txt",
-		"/C/Users/roberd7/AppData/Local/Microsoft/Office/16.0/lync.exe_Rules.xml",
-		"/C/Program Files (x86)/Microsoft Office/root/Office16/MANIFEST.XML",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Local/Session.sublime_session",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 12 - December/Data Governance/Requirements-Data-Governance.rqr",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 12 - December/Data Governance/CM_TD_Scripts.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 12 - December/Data Governance_2/Data Governance.rqr",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/PLT/Service_And_Acquisition_Channel/Design.rqr",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-project",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 12 - December/Data Governance_2/DataGovernanceDML.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 12 - December/Data Governance_2/Future DG request items - SmartRide attributes in Console.msg",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/logs/PrintTableRows.20161221124433-8.log",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2017/2017 01 - January/DG/DG_DML.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Teradata/Mot De Passe",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/2016/2016 12 - December/Data Governance/Remove mailing address fields from Property templates (future DG WR item).msg",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/test",
-		"/T/Teradata_wallet/tdwallet1410__linux_indep.14.10.00.01-1.txt",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/executesql.py",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/python_query_module.txt",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/udaexec.ini",
-		"/C/Users/roberd7/AppData/Local/Temp/PythonQueryModule.20161221122230-34.log",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/Context.sublime-menu"
+		"/W/Console/DASM/Level 2 Test 2"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -396,6 +417,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\\n",
+			"TelematicsDisc_Cd",
+			"TelematicsEnroll_Dt",
+			"TelematicsDisc_Cd",
+			"TelematicsActualDay_Ct",
+			"enrollment",
 			"policyendorsement",
 			"%USERNAME%",
 			"▒",
@@ -517,20 +544,15 @@
 			"TelematicsDisc_Cd",
 			"TelematicsEnroll_Dt",
 			"${FND_FPER_DB}",
-			"PolicyBusinessKey_Id",
-			"FND_FPER_DB",
-			"BP.FullPolicy_Nb",
-			"RPT_GALAXY_EXTRACT",
-			"FullPolicy_Nb",
-			"\\w\\w.FullPolicy_Nb",
-			"FullPolicy_Nb"
+			"PolicyBusinessKey_Id"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"",
 			"roberd7",
 			"░",
 			" ",
@@ -657,8 +679,7 @@
 			"RPT_GALAXY_EXTRACT",
 			"CSTS",
 			"BA.",
-			"Load_Dt",
-			"PolicyBrand_Ds"
+			"Load_Dt"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -676,7 +697,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -705,6 +726,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 142.0
+	},
 	"output.exec":
 	{
 		"height": 400.0
@@ -725,7 +750,7 @@
 	"project": "Projects and Defects.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 76.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -745,7 +770,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\Perl.sublime-project"
+				"C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\BIGI.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -767,7 +792,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 393.0,
+	"side_bar_width": 689.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

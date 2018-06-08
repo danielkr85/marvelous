@@ -1,0 +1,91 @@
+[
+		{
+				"Caption": "Edit",
+				"mnemonic": "E",
+				"id": "edit",
+				"children":
+				[
+					{
+						"caption": "Markdown Table Formatter",
+						"command": "markdown_table_format"
+					}
+				]
+		},
+		{
+				"caption": "Preferences",
+				"mnemonic": "n",
+				"id": "preferences",
+				"children":
+				[
+						{
+							"caption": "Package Settings",
+							"mnemonic": "P",
+							"id": "package-settings",
+							"children":
+							[
+									{
+											"caption": "Markdown Table Formatter",
+											"children":
+											[
+													{
+														"command": "edit_settings",
+														"args": { "base_file": "${packages}/Markdown Table Formatter/MarkdownTableFormatter.sublime-settings" },
+														"caption": "Settings"
+													},
+													{ "caption": "-" },
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/Markdown Table Formatter/Default (OSX).sublime-keymap",
+																"platform": "OSX"
+														},
+														"caption": "Key Bindings – Default"
+													},
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/Markdown Table Formatter/Default (Linux).sublime-keymap",
+																"platform": "Linux"
+														},
+														"caption": "Key Bindings – Default"
+													},
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/Markdown Table Formatter/Default (Windows).sublime-keymap",
+																"platform": "Windows"
+														},
+														"caption": "Key Bindings – Default"
+													},
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/User/Default (OSX).sublime-keymap",
+																"platform": "OSX"
+														},
+														"caption": "Key Bindings – User"
+													},
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/User/Default (Linux).sublime-keymap",
+																"platform": "Linux"
+														},
+														"caption": "Key Bindings – User"
+													},
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/User/Default (Windows).sublime-keymap",
+																"platform": "Windows"
+														},
+														"caption": "Key Bindings – User"
+													},
+													{ "caption": "-" }
+											]
+									}
+							]
+						}
+				]
+		}
+]

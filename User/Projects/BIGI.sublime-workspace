@@ -4,6 +4,318 @@
 		"selected_items":
 		[
 			[
+				"json_map",
+				"json_map_file"
+			],
+			[
+				"distcp",
+				"distcp_source_host"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"Setup",
+				"Setup_Dates"
+			],
+			[
+				"Set",
+				"Setup_IdentifyPartitionsToPurge"
+			],
+			[
+				"hadoo",
+				"HadoopConnect"
+			],
+			[
+				"Oc",
+				"Octo_fileset"
+			],
+			[
+				"file",
+				"file_filter"
+			],
+			[
+				"Smar",
+				"SmartRide"
+			],
+			[
+				"files",
+				"files_to_backup"
+			],
+			[
+				"load",
+				"load_event_id"
+			],
+			[
+				"Pure",
+				"Pure_Score_2"
+			],
+			[
+				"State_",
+				"STATE_Tp"
+			],
+			[
+				"File",
+				"File_InForce_By_State"
+			],
+			[
+				"Expiration_Dt",
+				"Expiration_Dt"
+			],
+			[
+				"trf_",
+				"trf_mk_inspection_info"
+			],
+			[
+				"SysM",
+				"SystemModstamp"
+			],
+			[
+				"LastMo",
+				"LastModifiedById"
+			],
+			[
+				"high",
+				"highbucket"
+			],
+			[
+				"hado",
+				"hadoop_user"
+			],
+			[
+				"la",
+				"loadevent_id"
+			],
+			[
+				"exec",
+				"executeFlow"
+			],
+			[
+				"jdbc",
+				"jdbc_drivers"
+			],
+			[
+				"par",
+				"parentId"
+			],
+			[
+				"cmd_",
+				"cmd_path_split"
+			],
+			[
+				"job",
+				"job_id"
+			],
+			[
+				"parent",
+				"parent_job_id"
+			],
+			[
+				"Check",
+				"CheckJobStatus"
+			],
+			[
+				"in",
+				"invoke_cmd_output"
+			],
+			[
+				"partition",
+				"partitionhash"
+			],
+			[
+				"sm",
+				"smartride_work_hive_db"
+			],
+			[
+				"True",
+				"True"
+			],
+			[
+				"tsp_trip",
+				"tsp_tripsummary"
+			],
+			[
+				"per",
+				"preparedQuery2"
+			],
+			[
+				"pera",
+				"preparedQuery"
+			],
+			[
+				"CLAIM",
+				"CLAIMNUMBER"
+			],
+			[
+				"PRoc",
+				"ProcVars"
+			],
+			[
+				"Ex",
+				"ExecuteHiveScript"
+			],
+			[
+				"load_even",
+				"load_event_id_list"
+			],
+			[
+				"sr",
+				"sr_pgm_instnc_id"
+			],
+			[
+				"mon",
+				"months_old_or_more"
+			],
+			[
+				"srd",
+				"srdp_wk_db"
+			],
+			[
+				"Move",
+				"MoveFileS3Bucket"
+			],
+			[
+				"comp",
+				"compressed_files"
+			],
+			[
+				"execute",
+				"execute_exception"
+			],
+			[
+				"email",
+				"email_body"
+			],
+			[
+				"pid",
+				"pid"
+			],
+			[
+				"list_of",
+				"list_of_orphan_batches"
+			],
+			[
+				"smart",
+				"smartride_work_hive_db"
+			],
+			[
+				"smar",
+				"smartride_canonical_hive_db"
+			],
+			[
+				"de",
+				"delete_target_files_flag"
+			],
+			[
+				"sour",
+				"source_path"
+			],
+			[
+				"dist",
+				"distcp_source_host"
+			],
+			[
+				"quer",
+				"queryIndex"
+			],
+			[
+				"DC_",
+				"dc_instance_id"
+			],
+			[
+				"orph",
+				"orphans_to_process"
+			],
+			[
+				"s",
+				"smartride_work_hive_db"
+			],
+			[
+				"cc_catast",
+				"cc_catastrophezone_ext"
+			],
+			[
+				"query",
+				"queryFromFile"
+			],
+			[
+				"out",
+				"outFormat"
+			],
+			[
+				"read",
+				"readResponse"
+			],
+			[
+				"con",
+				"convertBytes"
+			],
+			[
+				"partner",
+				"partnernotification_id"
+			],
+			[
+				"td_",
+				"td_databases_list"
+			],
+			[
+				"Get",
+				"GetTeradataTableRowCount"
+			],
+			[
+				"data",
+				"data_pattern"
+			],
+			[
+				"resu",
+				"result_partitions"
+			],
+			[
+				"Poc",
+				"ProcVars"
+			],
+			[
+				"ASSET",
+				"ASSET_ID"
+			],
+			[
+				"ProcV",
+				"ProcVars"
+			],
+			[
+				"claimcenter",
+				"claimcenter_raw_hive_db"
+			],
+			[
+				"cc_",
+				"cc_logon_file"
+			],
+			[
+				"Prep",
+				"preparedQuery"
+			],
+			[
+				"Pro",
+				"ProcVars"
+			],
+			[
+				"Invalid",
+				"invalid_datasets"
+			],
+			[
+				"Java",
+				"Java_Command_data"
+			],
+			[
+				"sql",
+				"sqlfilename"
+			],
+			[
+				"trip",
+				"trip_details"
+			],
+			[
 				"app",
 				"app_CALCULATE_EPRODUCT"
 			],
@@ -28,58 +340,38 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/roberd7/Desktop/ROOT/Teradata/Mot De Passe",
+			"file": "/C/Users/roberd7/.cmder/pyspark.bat",
 			"settings":
 			{
-				"buffer_size": 219,
+				"buffer_size": 351,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib/EDW/FileUtilities.pm",
+			"file": "/C/Users/roberd7/Desktop/ROOT/Remote/Home/cpvd/spark/test/test_gdwJsonToCsv.py",
 			"settings":
 			{
-				"buffer_size": 277,
+				"buffer_size": 2095,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import SparkTestBase"
+			}
+		},
+		{
+			"file": "/C/Users/roberd7/Desktop/ROOT/Remote/Home/difcommon/lib/DIF/Spark.pm",
+			"settings":
+			{
+				"buffer_size": 2101,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib/EDW/FileUtilities/Utils.pm",
+			"file": "/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/python/lib/SparkTestBase.py",
 			"settings":
 			{
-				"buffer_size": 2377,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib/EDW/FileUtilities/Mover.pm",
-			"settings":
-			{
-				"buffer_size": 7129,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/roberd7/AppData/Local/Temp/gdw33xxTripHourSummarization.sql-revHEAD.svn000.tmp.sql",
-			"settings":
-			{
-				"buffer_size": 10050,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/bin/gdw1301IMSHfAcquire.pl",
-			"settings":
-			{
-				"buffer_size": 28194,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib/EDW/ControlTables.pm",
-			"settings":
-			{
-				"buffer_size": 34985,
+				"buffer_size": 1382,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -91,13 +383,77 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 290.0,
+		"height": 139.0,
 		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"Package Control: ",
-				"Package Control: List Packages"
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git: st",
+				"git: status"
+			],
+			[
+				"git: pull",
+				"git: pull"
+			],
+			[
+				"git: branch",
+				"git: branch"
+			],
+			[
+				"git: status",
+				"git: status"
+			],
+			[
+				"git: diff",
+				"git: diff"
+			],
+			[
+				"GitSavvy: help",
+				"GitSavvy: help"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: En",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: a",
+				"Package Control: Enable Package"
 			],
 			[
 				"package Control: ",
@@ -108,11 +464,11 @@
 				"Set Syntax: XML"
 			]
 		],
-		"width": 392.0
+		"width": 412.0
 	},
 	"console":
 	{
-		"height": 221.0,
+		"height": 201.0,
 		"history":
 		[
 			"os.environ",
@@ -256,296 +612,332 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/roberd7/Desktop/ROOT/Perl",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib/EDW",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib/EDW/FileUtilities",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/bin",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2017",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2017/03_March",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2017/03_March/DNBS"
+		"/C/Users/roberd7/Desktop/ROOT/Remote",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/difcommon",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/difcommon/lib",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/difcommon/lib/DIF",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/perlAnalysis",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/lib",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/sql",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/t",
+		"/C/Users/roberd7/Desktop/ROOT/AWS"
 	],
 	"file_history":
 	[
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/bin/gdw33xxTripSummarizationHive.pl",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw23xxBuildTablesFromMROutput.sql-revHEAD.svn002.tmp.sql",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw1320DNBSAcquire.pl-revHEAD.svn002.tmp.pl",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw33xxTripSummarization.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2017/03_March/DNBS/dnbs_table.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib/EDW/Hadoop.pm",
-		"/C/Users/roberd7/Desktop/ROOT/Teradata/Mot De Passe",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw1320DNBSAcquire.pl-revHEAD.svn001.tmp.pl",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw1320DNBSAcquire.pl-revHEAD.svn000.tmp.pl",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw2xxxStandardize.pl-revHEAD.svn000.tmp.pl",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw23xxBuildTablesFromMROutput.sql-revHEAD.svn005.tmp.sql",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw23xxBuildTablesFromMROutput.sql-revHEAD.svn004.tmp.sql",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw23xxBuildTablesFromMROutput.sql-revHEAD.svn003.tmp.sql",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw23xxBuildTablesFromMROutput.sql-revHEAD.svn001.tmp.sql",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw23xxBuildTablesFromMROutput.sql-revHEAD.svn000.tmp.sql",
-		"/C/Users/roberd7/Desktop/ROOT/SVN/java/SRDP/mapReduce/src/main/java/com/nationwide/smartride/scoring/devicestatus/domain/DeviceEvent.java",
-		"/C/Users/roberd7/Desktop/ROOT/SVN/SRDP/sql/gdw33xxTripHourSummarization.sql",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw33xxTripHourSummarization.sql-revHEAD.svn001.tmp.sql",
-		"/C/Users/roberd7/Desktop/ROOT/SVN/SRDP/sql/gdw1304ExternalTablePartitions.sql",
-		"/C/Users/roberd7/AppData/Local/Temp/gdw33xxTripHourSummarization.sql-revHEAD.svn000.tmp.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/tsp_tripsummary/OCTO/TS_1GKEK13Z84R191494.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/tsp_tripevent/OCTO/TE_1GKEK13Z84R191494.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Output/part-r-00000",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/TS_1GKEK13Z84R191494.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/smt_ods_bigin_pgm_instnc/OCTO/PI_1GKEK13Z84R191494.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/TE_1GKEK13Z84R191494.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/PI_1GKEK13Z84R191494.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/smt_ods_bigin_pgm_instnc/OCTO/PI_JA4AR3AW6GZ046933_no_issue_.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/tsp_tripsummary/OCTO/TS_JA4AR3AW6GZ046933.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/IMS_PI_WVWRH63B12P230558.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/IMS_TE_WVWRH63B12P230558.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/TE_1FAHP33N58W222300.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/TS_1FAHP33N58W222300.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/PI_1FAHP33N58W222300.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/bin/gdw33xxDeviceStatus.pl",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/SRDP.edwEnvironmentConfig.yml",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/pom.xml",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/smt_ods_bigin_pgm_instnc/OCTO/PI_Test_1.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/TS_Test1.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/TE_Test1.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Output/._SUCCESS.crc",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Output/.part-r-00000.crc",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Output/_SUCCESS",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/IMS_TS_WVWRH63B12P230558.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/.project",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/.factorypath",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/.biginsights",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw1303SmtOdsPgmInstanceAcquireRetry.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw1303WkSmtOdsPgmInstanceAcquire.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw1303SmtOdsPgmInstanceAcquire.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/PI_Test_1.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/PI_JA4AR3AW6GZ046933(no_issue).txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/New Text Document.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/PI_JA4AR3AW6GZ046933(has_issue).txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/smt_ods_bigin_pgm_instnc/OCTO/PI_1HGEJ6678WL030897(no_issue).txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/TS_JA4AR3AW6GZ046933.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/PI_1HGEJ6678WL030897(no_issue).txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/tsp_tripsummary/OCTO/tsp_tripsummary.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/backup/JA4AR3AW6GZ046933.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Output2/part-r-00000",
-		"/C/Users/roberd7/Desktop/ROOT/Command Prompt/ProgramFeatures.bat",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/tsp_tripevent/OCTO/tsp_tripevent.txt",
-		"/C/devl/hadoop/2.6/etc/hadoop/mapred-site.xml",
-		"/C/devl/hadoop/2.6/etc/hadoop/core-site.xml",
-		"/C/devl/hadoop/2.6/etc/hadoop/hadoop-env.cmd",
-		"/C/devl/hadoop/2.6/etc/hadoop/yarn-site.xml",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/tsp_tripsummary/OCTO/tsp_tripsummary2.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/program_instance2.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/tsp_tripevent2.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/Input/tsp_tripsummary2.txt",
-		"/C/devl/hadoop/2.6/sbin/start-dfs.cmd",
-		"/C/devl/hadoop/2.6/etc/hadoop/hadoop-env.sh",
-		"/C/devl/hadoop/2.6/etc/hadoop/mapred-env.cmd",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/src/main/java/com/nationwide/smartride/scoring/devicestatus/DeviceStatusReducer.java",
-		"/C/Users/roberd7/.ssh/known_hosts",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/EclipseWorkspace/smartride/src/main/java/com/nationwide/smartride/scoring/devicestatus/domain/DeviceStatus.java",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/src/main/java/com/nationwide/smartride/scoring/devicestatus/domain/DeviceEvent.java",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/src/main/java/com/nationwide/smartride/scoring/devicestatus/DeviceStatusMapper.java",
-		"/C/Users/roberd7/Desktop/publickey",
-		"/C/Users/roberd7/Desktop/private.ppk",
-		"/C/Users/roberd7/Desktop/HomeKey.ppk",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/src/main/java/com/nationwide/smartride/scoring/devicestatus/Constants.java",
-		"/C/Users/roberd7/Desktop/tsp_tripsummary.txt",
-		"/C/Users/roberd7/Desktop/program_instance.txt",
-		"/C/Users/roberd7/Desktop/tsp_tripevent2.txt",
-		"/C/Users/roberd7/Desktop/program_instance2.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/bin/gdw5310ScoringDaily.pl",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw33xxDeviceStatus.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw5310Scoring.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/src/main/java/com/nationwide/smartride/scoring/devicestatus/DeviceStatusMain.java",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/src/main/java/com/nationwide/smartride/scoring/devicestatus/domain/DeviceStatus.java",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/src/main/java/com/nationwide/smartride/scoring/devicestatus/domain/PiidBoundaryEvent.java",
-		"/C/Users/roberd7/Desktop/ROOT/Java/BIGI/java/SRDP/mapReduce/src/main/java/com/nationwide/smartride/scoring/devicestatus/domain/TripSummaryEvent.java",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw33xxSreDaily.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2017/03_March/DNBS/NATIONWI.201508.SAMP.TXT",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2017/03_March/SRE_Graph_Defect/SreIndexListV2.java",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2017/03_March/DNBS/NATIONWI.201508.SAMP.TXT.BKP",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw33xxTripHourSummarization.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/bin/gdw23xxStandardize.pl",
-		"/C/Users/roberd7/Documents/SqlTextInfo019.txt",
-		"/C/Users/roberd7/Documents/JSONKeys057.txt",
-		"/C/Users/roberd7/Documents/JSONKeys001.txt",
-		"/C/Users/roberd7/Documents/Json_Column001.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw23xxTripScrub.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/bin/gdw23xxTripScrub.pl",
-		"/C/Users/roberd7/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-scmp.nwie.net-1635-9093-8830314/SRDP.edwEnvironmentConfig.yml",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2017/03_March/SRE_Graph_Defect/Harvest/SRDP.edwEnvironmentConfig.yml",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/harvestcodepromotion.py",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/udaexec.ini",
-		"/C/Users/roberd7/AppData/Local/Temp/SRDP.edwEnvironmentConfig.yml-revHEAD.svn000.tmp.yml",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw2301StandardizeIMSCanonicalCumulative_DropRecreate_Step1.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw2301StandardizeIMSCanonicalCumulative_LoadTSP_TripCumulative_Step4.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw2301StandardizeIMSCanonicalCumulative_WkTableLoad_Step3.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw2302StandardizeIMSCanonicalSummary_AlterExtTable_Step2.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw2300StandardizeIMSAuditCanonical_AlterExtTable_Step2.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw2300StandardizeIMSauditCanonical_DupCtrlTableLoad_Step3.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw2301StandardizeIMSCanonicalCumulative.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw2301StandardizeIMSCanonicalCumulative_AlterExtTable_Step2.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw2300StandardizeIMSauditCanonical_DropRecreate_Step1.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/lib/SmartRide/SmartRide.pm",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/sql/gdw23xxBuildTablesFromMROutput.sql",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2017/03_March/SRE_Graph_Defect/SRE_Graph_Defect.rqr",
-		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2017/03_March/SRE_Graph_Defect/Harvest/gdw33xxTripHourSummarization.sql",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/python_query_module.txt",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/bin/gdw1303SmtOdsPgmInstanceAcquire.pl",
-		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Python_Plugins/executesql.py",
-		"/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/lib/SmartRide/HadoopExec.pm",
-		"/C/Program Files/squirrel-sql-3.7.1/squirrel-sql.bat"
+		"/C/Users/roberd7/spark/conf/log4j.properties.template",
+		"/C/Users/roberd7/spark/conf/log4j.properties",
+		"/C/Users/roberd7/metastore_db/README_DO_NOT_TOUCH_FILES.txt",
+		"/C/Users/roberd7/hadoop-2.7.1/etc/hadoop/hdfs-site.xml",
+		"/C/Users/roberd7/spark/conf/spark-defaults.conf.template",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/sql/gdw23xxTripScrub.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/sql/gdw2302StandardizeIMSCanonicalSummary_LoadTSP_TripSummary_Step4.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/cpvd/bin/gdwPrometrixAcquire.pl",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/t/DataConf.t",
+		"/C/Users/roberd7/Desktop/my-first-cloudformation.json",
+		"/C/Users/roberd7/Desktop/ROOT/AWS/hip_date_chain_tests.py",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/difcommon/lib/DIF/EnvSetup.pm",
+		"/C/Users/roberd7/.cmder/environment.bat",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/SRDP.edwEnvironmentConfig.yml",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/DIperlcommon/edwEnvironmentConfig.yml",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/DIperlcommon/DIperlcommon.edwEnvironmentConfig.yml",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/DIperlcommon/t/HiveConnect.t",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/Informatica.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/cpvd/cpvd.edwEnvironmentConfig.yml",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/lib/SmartRide/DataConf.pm",
+		"/C/Users/roberd7/Downloads/CodeDeploy_SampleCF_Template.json",
+		"/C/Users/roberd7/Desktop/ROOT/AWS/AWS-cli-examples.txt",
+		"/C/Users/roberd7/.ssh/github_rsa",
+		"/C/Users/roberd7/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/K3PGO3UZ/AllKeyPairs_roberd7.txt",
+		"/C/Users/roberd7/Desktop/ROOT/AWS/aws-cli-setup-info.txt",
+		"/C/Users/roberd7/.aws/credentials",
+		"/C/Users/roberd7/.ssh/aws_sandbox.pem",
+		"/C/Users/roberd7/.ssh/id_rsa.pub",
+		"/C/Users/roberd7/New folder/environment.bat",
+		"/C/Users/roberd7/Desktop/jump.pem",
+		"/C/Users/roberd7/Desktop/aws_personal/ssh_command.txt",
+		"/C/Users/roberd7/spark/README.md",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/cpvd/bin/gdwJsonToCsv.py",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/DIperlcommon/python/lib/SparkTestBase.py",
+		"/C/Python27/README.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/bin/gdw3360PurgeEXPNData.pl",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/bin/gdw1307AQBAcquire.pl",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/bin/gdw5312ScoreEXPN.pl",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/README.md",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/cpvd/bin/derby.log",
+		"/C/Users/roberd7/.dbeaver4/.metadata/dbeaver_sql_20180426.log",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/SmartMiles/SmartRideDDL.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2018/02-Feb/SRDP-Performance/orc_conversion_log.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/Hadoop.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Python/webhdfs_py/hdfs_dfs.py",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/bin/gdw1302OCTOHfAcquire.pl",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/bin/gdw1301IMSHfAcquire.pl",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/Spark.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/UnitTestHelper.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/miscperl/test.pl",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/t/Spark.t",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/t/Hadoop.t",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/cpvd/bin/BUR_Mapping.json",
+		"/C/Users/roberd7/Desktop/BUR.json",
+		"/C/Users/roberd7/Desktop/ROOT/AWS/Demo3.txt",
+		"/C/Program Files (x86)/Cntlm/cntlm.ini",
+		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/Cntlm/cntlm.ini.lnk",
+		"/C/Users/roberd7/Downloads/spark-1.6.1-bin-hadoop2.6.tgz.sha",
+		"/C/Users/roberd7/Downloads/spark-1.6.1-bin-hadoop2.4.tgz.md5",
+		"/C/Users/roberd7/Downloads/spark-1.6.1-bin-hadoop2.6.tgz.md5",
+		"/C/Users/roberd7/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/ETCSGP6P/gdw14xxdcltSqoopAcquire.pl.1450.20180523162556_787282.log",
+		"/C/Users/roberd7/AppData/Local/Cmder/README.md",
+		"/C/Users/roberd7/testworkspace/Just_For_Fun/src/org/myorg/ValidateJSON.java",
+		"/C/Users/roberd7/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/README.md",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/miscperl/zookeeper_con.pl",
+		"/C/Program Files/DBeaverCommunity/dbeaver.ini",
+		"/C/Users/roberd7/Desktop/ROOT/Kerberos/krb5.conf",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/t/SmartRide.t",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/cpvd/t/gdwPrometrixAcquire.t",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/cpvd/bin/PDR_Mapping.json",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/cpvd/bin/test.pl",
+		"/C/Users/roberd7/.ssh/roberd7_ec2.pem",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/t/DIF.t",
+		"/C/Users/roberd7/Desktop/ROOT/AWS/Demo1.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/HadoopExec.pm",
+		"/C/Users/roberd7/Downloads/robe1sec_ec2 (1).pem",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2017/12_Dec/SRDP-Data_Conf/Oracle_Job_Parms.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2018/04-April/oracle.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2018/02-Feb/DataConf-purge/analysis.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2018/03-March/DataConf-GPS/tsp_tripevent_octo.txt",
+		"/C/Users/roberd7/Downloads/robe1sec_ec2.pem",
+		"/C/Users/roberd7/Desktop/ROOT/AWS/spark_example_2.py",
+		"/C/Users/roberd7/Desktop/ROOT/AWS/spark_example_1.py",
+		"/C/Users/roberd7/PDR.json",
+		"/C/Users/roberd7/.dbeaver4/.metadata/dbeaver_sql_20180509.log",
+		"/C/Users/roberd7/Desktop/ROOT/Releases/BIGI/2018/ccda_performance/ARISING_CLAIM_NEW.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/cpvd/bin/cpvd.py",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/sftp-config.json",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/Messaging.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/edwEnvironmentConfig.yml",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/FileUtilities/RemoteTransfer.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/ControlTables.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/FileUtilities/Mover.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/FileUtilities/Utils.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/FileUtilities.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/lib/SmartRide/TrueMotion.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/bin/gdwTrueMotionAcquire.pl",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/miscperl/dump_procvars.pl",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/DIperlcommon/lib/GDW/FileProcessing.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/Hadoop/Auditing.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/Hadoop/HDFS.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/t/TrueMotion.t",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/bin/gdw23xxTripScrub.pl",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/RemoteExec.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/t/HadoopExec.t",
+		"/C/Users/roberd7/Desktop/ROOT/AWS/dp-ims-pipeline.json",
+		"/C/Users/roberd7/Desktop/ROOT/AWS/sharpen-your-skills-session3.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/sql/gdw23xxBuildTablesFromMROutput.sql",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/t/SmartMiles.t",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/t/DataStage.t",
+		"/C/Users/roberd7/Desktop/ROOT/Perl/Tips.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/t/gdw1304EXPNAcquire.t",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF/EnvSetup.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/lib/DIF.pm",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/prometrix/bin/select_column_logic.py",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/prometrix/bin/Bov.py",
+		"/C/Users/roberd7/wordcount.py",
+		"/C/Users/roberd7/Desktop/ROOT/AWS/hip_date_chain.py",
+		"/C/Users/roberd7/Desktop/BOV.json",
+		"/C/Users/roberd7/Desktop/ROOT/AWS/map_columns.py",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/priv/.hive_zookeeper_connection",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/webhcat/scripts/sqoop_webhcat_test.txt",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/webhcat/bin/WebHCatSqoop.pl",
+		"/C/Users/roberd7/simple_spark.py",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/webhcat/webhcat.edwEnvironmentConfig.yml",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/bin/gdw23xxStandardize.pl",
+		"/C/Users/roberd7/Desktop/ROOT/Remote/Home/SRDP/bin/gdw23xxAudit.pl"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
-		"height": 90.0,
+		"height": 262.0,
 		"where_history":
 		[
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home\\SRDP\\lib\\SmartRide",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home\\SRDP\\bin",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home\\SRDP\\t",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home\\SRDP\\sql\\SmartMiles",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\DIperl",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home\\SRDP\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Java\\BIGI\\EclipseWorkspace\\mapReduce\\src\\main\\java\\com",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home\\SRDP\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Releases\\BIGI\\2018\\ccda_performance",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home\\SRDP\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\SRDP\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\SRDP\\bin",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home\\SRDP",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home\\common",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home\\SRDP",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Remote\\Home\\SRDP\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\srdp\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\dcca\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\srdp\\bin",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\srdp\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\clbi\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\srdp",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\dcca",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\srdp\\bin",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\srdp",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\srdp\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\srdp",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\srdp\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\srdp\\bin",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\srdp\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\SRDP\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Releases\\BIGI\\CCDA\\DDL",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\EDW\\SRDP\\sql",
+			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\EDW\\SRDP\\bin",
 			"C:\\Users\\roberd7\\Desktop\\ROOT\\Perl\\EDW\\SRDP\\sql",
 			"C:\\Users\\roberd7\\Desktop\\ROOT\\Projects and Defects\\2016 09 - September\\Orion"
 		]
 	},
 	"find_state":
 	{
-		"case_sensitive": true,
+		"case_sensitive": false,
 		"find_history":
 		[
+			"^\\n",
+			"    ",
 			"\\t",
-			"930566",
-			"\\t",
-			"device_install_pcnt",
-			"8144373788",
-			".tripdetail_seconds",
-			"tripdetail_seconds",
-			"trip_details",
+			"wk_tsp_tripsummary",
+			";",
+			"\\n",
+			";",
+			"skip_hive_index",
+			"\",\n",
+			"Type",
+			"\\n",
+			";",
+			"\\n",
+			";",
+			"file1",
+			"file can't open file that does not exist",
+			"Found Log Message: file can't open file that does not exist",
+			"CreateDummyFile",
+			"username",
+			"TransferSparkJobFiles",
+			"HadoopCreateMu",
+			"HadoopCreate",
+			"select_condtion",
+			"ftype",
+			"BLDG_ADTNL_CNSTRCTN_DTL_TT",
+			"BLDG_WALL_TT",
+			"HadoopCreat",
+			"Hadoop",
+			"HadoopMove ",
+			"HadoopMoveMultipleFiles ",
+			"HadoopCreateMultipleFiles",
+			"myjson",
+			"json_mapping",
+			"\\n",
+			"array_ordered_key_names",
+			"array_key_names",
+			"myarrays",
+			"null",
+			"myfields",
+			"mydf",
+			"mymap",
+			"hdfs dfs -cp ",
+			"(.*)",
+			"(^.*)/.*",
+			"Found 1 items",
+			"^.*?/",
+			"(^.*)/",
+			"(.*)",
+			"(^.*)/.*",
+			"(^.*)/",
+			"^.*?/",
+			"Found 1 items",
+			"value",
+			"key",
+			"Spark",
+			"HadoopInfo",
+			"HadoopDelet",
+			"HadoopDownlo",
+			"HadoopGet",
+			"\\n",
+			");",
+			"ExecutePysparkJob",
+			" ;",
+			"1301",
+			"\\$dt",
+			"load_ev",
+			"\t\t\t\n",
+			"ValidateSshArgsForSparkSubmit",
+			"spark",
+			"CreateSparkSubmitCommand",
+			"SparkCommand",
+			"lib1.egg",
+			"Dump",
+			"Dum",
+			"Dumper",
+			"Data::Dumper",
+			"catch",
+			"srdp_purge_t_tbl1",
+			"\\n",
+			"--.*",
+			"octo_inbound_dir",
+			"$seen",
+			"%seen",
+			"seen",
+			"Tie",
+			"Dumper",
+			"Switch",
+			"true_dropbox_dir",
+			"tru_dropbox_dir",
+			"TruMotion",
+			"tru_dropbox_dir",
+			"GDW::HiveConnect::",
+			"files",
+			"names",
+			"record_ct",
+			"wc -l",
+			"}",
+			";\n",
+			"dropbox_dir",
+			"hive_db",
+			";",
+			"myfunction",
 			",",
-			"\\.",
-			"\\..",
-			"(?<=[A-Z])\\s(?=\\w*`)",
-			"`\\w*\\s\\w*`",
-			"`.*\\s.*`",
-			"'",
-			",99,",
-			"1",
-			"yaml_block_to_load",
-			"SetupYamlVars",
-			"smartride_work_hive_db",
-			"smartride_canonical_hive_db",
-			"hive",
-			",",
-			"line",
-			"%USERNAME%",
-			"▒",
-			"share",
-			"file",
-			"workspace",
-			"project",
-			"DB_F",
-			"DB_FO",
-			"_FO",
-			"hello",
-			"\\n",
-			"self.window",
-			"\\xA0",
-			"priorcarrier_tp",
-			"$product_fnd_db",
-			"$product_shr_db",
-			"$product_rpt_db",
-			"product_views_db",
-			"\\)\\s*\\(",
-			"\\n",
-			"FND_FPER_BASE",
-			"RPT_FPER_DB.LU_AcquisitionChannel",
-			"JOIN\\s",
-			"FROM\t",
-			"FROM\\s",
-			"New Source BaseAgent",
-			"New Source LU_AcquisitionChannel",
-			"^.Acqu",
-			"(?<=ADD)..\\n",
-			"(?<=ADD).",
-			"ADD\\n",
-			"\\)",
-			"\\(",
-			"(",
-			"COLUMN",
-			";",
-			"FROM",
-			"Fact;",
-			"/",
-			"\t\t\n",
-			"EDWTEST",
-			"_FO",
-			"FND_FSHR_DB",
-			"FND_FPER_DB_FO",
-			"\\n",
-			">\\n",
-			"^<",
-			">^",
-			"permissions",
-			"method",
-			"session",
-			"FND_FSHR",
-			"FND_FPER_DB_RO",
-			"EDWPROD",
-			"EDWDEVL",
-			"SRTM",
-			";",
-			"\\;",
-			";",
-			"\\n",
-			",\\|",
-			"Object_Nm_New",
-			"\\tVehicle ",
-			"$",
-			"${RPT_FPER_DB}",
-			"${FND_ACQUISITIONCHANNEL_WORKDB}",
-			"${RPT_FPER_DB}",
-			"InsertJobEventReady( \\%ProcVars );",
-			"Wk_SmartRideEProdXref",
-			"slvmcore0167.nwie.net",
-			".........,",
-			"3023",
-			"3022",
-			"3021",
-			"PLT_RPT_FPER_DB",
-			"A1_EvtRptClaim.vw:    left outer join ",
-			"Integrity Manager Tests",
-			"FND_FSHR_DB_FO",
-			"\\n",
-			"RPT_EVAT_APPS.",
+			"adjusted",
+			"Uninstalled_Time",
+			"lost",
+			"(^.*)/(.*)",
+			"^.*?/",
+			"(^.*)/(.*)",
+			"^.*?/",
+			"(^.*)/(.*)",
+			"^.*?/",
+			"batch=(.*)",
+			"source_Cd=IMS/",
 			")",
-			"',",
-			"'61",
-			"RPT_FPER_DB",
-			"inner join",
-			"export ",
-			"3018",
-			"ALL_WKSCRATCHPAD_DB",
-			"wk_pu",
-			"GOTO ERRORLEVEL",
-			"RPT_MCMS_DB.MCMSPolicyData",
-			"RPT_GALAXY_EXTRACT",
-			"${",
-			"telematicsenroll_dt",
-			"FND_FPER_DB.",
-			"telematicsEnroll_Dt",
-			"TelematicsEnroll_Dt",
-			"telematicsin",
-			"insureditemvehicle",
-			"lu8",
-			"ALL_WKSCRATCHPAD_DB.GeneralTransaction",
-			"ALL_WKSCRATCHPAD_.",
-			"DKR_TRAN_COVG_SUMMARY_ALL",
-			"${FND_NPRA_WORKDB}.WK"
+			"Trip_Summary",
+			"WK_Trip_Summary",
+			"wk_trip_summary",
+			"job_event_info",
+			"\\n",
+			"\\.\\.\\.",
+			"\\.\\.\\.\\s*",
+			">>>",
+			">>> ",
+			"\"",
+			"\\n",
+			",",
+			"\n\t"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -553,134 +945,134 @@
 		"regex": true,
 		"replace_history":
 		[
-			",",
-			"-1",
-			",",
+			"",
+			"\\t",
+			"    ",
 			"\\n",
-			"_",
-			"",
-			"`\\w*\\w*`",
-			"`",
-			"\\;",
-			"",
-			"roberd7",
-			"░",
-			" ",
-			"",
-			"self.view.window",
-			"\\xA0",
-			"\\xC2",
-			"$$product_fnd_db",
-			"$$product_shr_db",
-			"$$product_rpt_db",
-			"product_rpt_db",
-			"",
-			"$product_views_db",
-			"FND_FPER_BASE.LU_AcquisitionChannel",
-			"JOIN RPT_FPER_APPS_ENV1.",
-			"FROM RPT_FPER_APPS_ENV1.",
-			"FROM\\sRPT_FPER_APPS_ENV1.",
-			"New Source $product_fnd_db.BaseAgent",
-			"New Source $product_shr_db.XREF_XT",
-			" ADD Acqu",
-			" ",
-			"",
-			"ADD",
-			"",
-			"\\n ADD COLUMN (\\n ServicingChannel_Tp SMALLINT NOT NULL DEFAULT 0,\\n AcquisitionChannel_Tp SMALLINT NOT NULL DEFAULT 0);",
-			"\\n ADD COLUMN \\n ServicingChannel_Tp SMALLINT NOT NULL DEFAULT 0,\\n AcquisitionChannel_Tp SMALLINT NOT NULL DEFAULT 0;",
-			"ALTER TABLE",
 			";",
-			"\\",
-			"EDWPROD",
-			"FND_FPER_DB",
-			"",
-			">\\\\n\\n",
-			"FND_FPER_DB_FO",
-			"EDWTEST",
-			"DPTM",
 			"\\n",
+			";",
+			"\\n",
+			"",
 			";\\n",
-			";",
-			"Object_Nm",
+			"HadoopCreateMultiple",
+			"select_expression",
+			"field_data_type",
+			"json_mapping",
 			"",
-			"RPT_FPER_DB",
-			"FND_FPER_DB",
-			"RPT_FPER_DB",
-			"Wk_SmartRideEProdXref_TGT",
+			"ordered_array_key_names",
+			"array_ordered_key_names",
+			"array_key_names",
+			"working_field_list",
+			"data_frame_name",
+			"mapping_dict",
+			"hdfs dfs -cp /",
+			"hdfs dfs -cp \\1 /apps/hive/warehouse/roberd7.db/hive_sre_hourly/source_cd=IMS",
+			"\\1",
+			"",
+			"hdfs dfs -cp \\1 /apps/hive/warehouse/roberd7.db/tripdetail_seconds/source_cd=IMS",
+			"\\1",
+			"/",
+			"",
+			"Value",
+			"Key",
 			",",
-			"3032",
-			"3031",
-			"3030",
-			"RPT_FPER_DB",
+			"ExecuteSparkJob",
+			" ",
 			"",
-			"Integrity_Manager_Tests",
-			"RPT_FPER_APPS_ENV1",
-			"\\nTP.",
-			"\\nS2T.",
-			"\\nXT.",
+			"trmt_dropbox_dir",
+			"true_dropbox_dir",
+			"TrueMotion",
+			"trmt_dropbox_dir",
 			"",
-			");",
-			"','PAS')",
-			"insert into fnd_fshr_db.policybusinesskeyid_xt values (0,'61",
-			"PLT_RPT_FPER_DB",
+			"tru_dropbox_dir",
+			";\\n",
+			",\\n",
+			"hadoop distcp -pb -overwrite -delete  webhdfs://nhplbigi3003\\1/\\2 webhdfs://ehplbigi1002\\1/\\2",
+			"/",
+			"hadoop distcp -pb -overwrite -delete  webhdfs://nhplbigi3003\\1/\\2 webhdfs://ehplbigi1002\\1/\\2",
 			"",
-			"GOTO EOJ",
-			"ALL_WKSCRATCHPAD_DB.MCMSPolicyData",
-			"ALL_WKSCRATCHPAD_DB",
-			"FND_FPER_DB_FO.",
-			"lu",
-			"ALL_WKSCRATCHPAD_DB.DKR_GeneralTransaction",
-			"ALL_WKSCRATCHPAD_DB.",
-			"ALL_WKSCRATCHPAD_.DKR",
-			"ALL_WKSCRATCHPAD_DB.DKR",
-			"FND_NPRA_WORKDB.DKR",
-			"PCDW_AUTO2",
-			"FND_FSHR_DB",
-			"1234567000000000",
-			"ALL_WKSCRATCHPAD_DB",
-			"ALL_WKSCRATCHPAD_DB.DKR",
-			"PCDW_AUTO2",
-			"ALL_WKSCRATCHPAD_DB.DKR",
-			"FND_FPER_DB",
-			"FullPolicy_Nb",
-			"${FND_FPER_DB}",
-			"FND_FPER_DB",
-			"TRIM(BP.FullPolicy_Nb)",
-			"ALL_WKSCRATCHPAD_DB",
-			"BYTEINT",
-			"FND_FPER_DB.FactPolicyInforce",
-			"FND_FPER_DB_FO",
-			"FND_NPPS_WORKDB",
-			"FND_FPER_DB_FO",
-			"FND_NPPS_WORKDB",
-			"ALL_WKSCRATCHPAD_DB.dkr_factpolicyinforcesummary",
-			"FND_FPER_DB.FactInsuredItemInforce",
-			"FND_FPER_DB_FO",
-			"FND_NPPS_WORKDB",
-			"ALL_WKSCRATCHPAD_DB.dkr_FactInsuredItemInforce",
-			"AALL_WKSCRATCHPAD_DB.dkr_FactInsuredItemInforce",
-			"ALL_WKSCRATCHPAD_DB.dkr_FactPolicyInforce",
-			"FND_NPPS_WORKDB",
-			"FND_FPER_DB_FO",
-			"dkr_FactInsuredItemInforce",
-			"FND_FPER_BASE",
-			"DKR_FactInsItemInforceSummary",
-			"FND_FPER_DB_FO",
-			"FND_FPER_DB",
-			"FND_NPPS_WORKDB",
-			"DKR_factcoverageinforcesummary",
-			"FND_FPER_DB",
-			"FND_NPPS_WORKDB",
-			".GOTO EOJ",
-			"FND_FPER_DB",
-			"FND_NPPS_WORKDB",
-			"DKR_FactInsItemActivitySummary",
+			"hadoop distcp -pb -overwrite -delete  webhdfs://nhplbigi3003\\1/\\2 webhdfs://ehplbigi1002\\1/\\2",
+			"hadoop distcp -pb -overwrite -delete  webhdfs://nhplbigi3003\\1/\\2 webhdfs://ehplbigi1002\\1",
+			"hadoop distcp -pb -overwrite -delete  webhdfs://nhplbigi3002\\1/\\2 webhdfs://ehplbigi1002\\1",
+			"/",
+			"alter table smartride_canonical_hive_db.hive_sre_hourly drop partition (source_cd='IMS',batch='\\1');",
 			"",
-			"ALL_WKSCRATCHPAD_DB.D",
-			" OR",
-			"OR",
-			"<>"
+			"\\\"",
+			"",
+			",\\n",
+			"\"",
+			"TBL_Inspection_Info.",
+			"pcdw_telematics_fnd_db",
+			"pcdw_telematics_fnd_workdb",
+			"pcdw_telematics_fnd_db",
+			"pcdw_telematics_fnd_workdb",
+			"",
+			"'\\1',",
+			"hadoop distcp -pb -overwrite webhdfs://nhplbigi3002\\1 webhdfs://ehplbigi1002\\1",
+			"hadoop distcp -pb -overwrite webhdfs://nhplbigi3002\\1 webhdfs://ehplbigi1002/\\1",
+			"/",
+			"\\1",
+			"'\\1',",
+			"\\1",
+			" ",
+			"\\s",
+			"'\\1',",
+			"\\1,",
+			"\\1\\n",
+			"\\1",
+			"",
+			"~>mappers",
+			"10",
+			",",
+			"\\001",
+			"\\n",
+			"\\u0004",
+			"aws s3 mv s3://dw-evolve-aws-glue-poc/datasets/slfc/\\1\\2 s3://dw-evolve-aws-glue-poc/datasets/slfc/\\1/\\1\\2",
+			"aws s3 mv s3://dw-evolve-aws-glue-poc/datasets/slfc/\\1\\2 s3://dw-evolve-aws-glue-poc/datasets/slfc/\\1\\\\\\1\\2",
+			"aws s3 mv s3://dw-evolve-aws-glue-poc/datasets/slfc/\\1\\2 s3://dw-evolve-aws-glue-poc/datasets/slfc/\\1\\\\1\\2",
+			"\\1",
+			"",
+			"aws s3 mv s3://dw-evolve-aws-glue-poc/\\1\\2.dat s3://dw-evolve-aws-glue-poc/\\1\\2/\\2.dat",
+			"aws s3 mv s3://dw-evolve-aws-glue-poc/\\1\\2.dat s3://dw-evolve-aws-glue-poc/\\1\\2",
+			"\\1",
+			"20",
+			"~>loadevent_id",
+			"mapreduce.job.running.map.limit=25",
+			"600000",
+			"19",
+			",\\n",
+			"12",
+			"6",
+			"setStart",
+			"ProcVars",
+			"td_record_count",
+			"hive_record_count",
+			"td_record_count",
+			"loadevent_id",
+			"endbatch_nb",
+			"beginbatch_nb",
+			",\\n",
+			"",
+			"\\n",
+			"\\1\\n",
+			" ",
+			"MoveSqoopCommandsToHadoop",
+			"$ProcVars->{WebHCatWrkDir}",
+			" ",
+			"LogInfo($ProcVars,\\1);",
+			"104L1ruE",
+			"GetHTTPJobStatusRequest",
+			" ",
+			"pw_path",
+			"cmd_path",
+			"url",
+			" url",
+			" ",
+			",",
+			"/",
+			" /",
+			" "
 		],
 		"reverse": false,
 		"show_context": true,
@@ -691,29 +1083,96 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/roberd7/Desktop/ROOT/Teradata/Mot De Passe",
+					"file": "/C/Users/roberd7/.cmder/pyspark.bat",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 219,
+						"buffer_size": 351,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								211,
-								219
+								351,
+								351
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/roberd7/Desktop/ROOT/Remote/Home/cpvd/spark/test/test_gdwJsonToCsv.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2095,
+								2095
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import SparkTestBase",
+							"incomplete_sync": null,
+							"synced": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/roberd7/Desktop/ROOT/Remote/Home/difcommon/lib/DIF/Spark.pm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -723,53 +1182,28 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib/EDW/FileUtilities.pm",
+					"buffer": 3,
+					"file": "/C/Users/roberd7/Desktop/ROOT/Remote/Home/common/python/lib/SparkTestBase.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 277,
+						"buffer_size": 1382,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								276,
-								276
+								639,
+								639
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Perl/Perl.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib/EDW/FileUtilities/Utils.pm",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -779,137 +1213,17 @@
 					},
 					"stack_index": 3,
 					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib/EDW/FileUtilities/Mover.pm",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7129,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								283,
-								283
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Perl/Perl.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 146.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/roberd7/AppData/Local/Temp/gdw33xxTripHourSummarization.sql-revHEAD.svn000.tmp.sql",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10050,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/User/Syntax/SQL.sublime-syntax",
-							"tab_size": 5,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 2544.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Users/roberd7/Desktop/ROOT/Perl/EDW/SRDP/bin/gdw1301IMSHfAcquire.pl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 28194,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Perl/Perl.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 600.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/roberd7/Desktop/ROOT/Perl/EDW/common/lib/EDW/ControlTables.pm",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34985,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								24751,
-								24770
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Perl/Perl.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 13927.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 31.0
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 90.0
 	},
 	"layout":
 	{
@@ -934,15 +1248,27 @@
 		]
 	},
 	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 280.0
+	},
+	"output.exec":
+	{
+		"height": 271.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 356.0
 	},
 	"pinned_build_system": "",
 	"project": "BIGI.sublime-project",
 	"replace":
 	{
-		"height": 66.0
+		"height": 76.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -963,6 +1289,10 @@
 			[
 				"",
 				"C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\Projects and Defects.sublime-project"
+			],
+			[
+				"rfe",
+				"C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\Projects and Defects.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -980,13 +1310,14 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
-	"show_open_files": false,
+	"show_minimap": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 364.0,
+	"side_bar_width": 247.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
+		"max_columns": 2
 	}
 }

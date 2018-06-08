@@ -5,11 +5,24 @@
 			"path": "C:\\Users\\roberd7\\Desktop\\ROOT\\Perl"
 		},
 		{
-			"name": "Docs",
+			"path": "C:\\Users\\roberd7\\Desktop\\ROOT\\Java\\BIGI"
+		},
+		{
+			"name": "Releases",
 			"path": "C:\\Users\\roberd7\\Desktop\\ROOT\\Releases\\BIGI"
 		},
 		{
-			"path": "C:\\Users\\roberd7\\Desktop\\ROOT\\Java\\BIGI"
+			"path": "C:\\Users\\roberd7\\Desktop\\ROOT\\Python"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				".*"
+			],
+			"path": "C:\\Users\\roberd7\\Desktop\\ROOT\\Remote"
+		},
+		{
+			"path": "C:\\Users\\roberd7\\Desktop\\ROOT\\AWS"
 		}
 	]
 }

@@ -15,6 +15,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/roberd7/Desktop/ROOT/GIT/console-deux-home/.gitignore",
+			"settings":
+			{
+				"buffer_size": 578,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/roberd7/Desktop/ROOT/GIT/angry-aardvark/README.md",
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/Default/Syntax Tests.sublime-build",
 	"build_system_choices":
@@ -217,7 +233,7 @@
 	"expanded_folders":
 	[
 		"/C/Users/roberd7/Desktop/ROOT/GIT",
-		"/C/Users/roberd7/Desktop/ROOT/GIT/angry-aardvark"
+		"/C/Users/roberd7/Desktop/ROOT/GIT/angry-aardvark/__pycache__"
 	],
 	"file_history":
 	[
@@ -616,8 +632,65 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/roberd7/Desktop/ROOT/GIT/console-deux-home/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/roberd7/Desktop/ROOT/GIT/angry-aardvark/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -688,7 +761,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\Projects and Defects.sublime-project"
+				"C:\\Users\\roberd7\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\Sublime_Plugins.sublime-project"
 			]
 		],
 		"width": 746.0

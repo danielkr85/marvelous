@@ -1,7 +1,6 @@
 [
     {
         "caption": "Plugins",
-        "mnemonic": "O",
         "id": "user",
         "children":
         [
